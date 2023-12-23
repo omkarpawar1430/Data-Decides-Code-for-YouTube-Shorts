@@ -1,0 +1,11 @@
+CustomerID,SubscriptionType,PreferredGenre,PaymentMethod,Device
+1,Basic,Drama,Credit Card,Smart TV
+2,Premium,Comedy,PayPal,Tablet
+3,Standard,Action,Debit Card,Smartphone
+4,Premium,Drama,PayPal,Laptop
+5,Basic,Comedy,Debit Card,Smartphone
+6,Premium,Action,Credit Card,Smart TV
+7,Standard,Comedy,Debit Card,Laptop
+8,Basic,Drama,Credit Card,Smartphone
+9,Premium,Action,PayPal,Smart TV
+10,Basic,Comedy,Credit Card,Tablet
