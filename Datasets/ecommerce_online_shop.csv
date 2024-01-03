@@ -1,0 +1,61 @@
+CustomerID,Name,Age,Gender,ProductID,Product,quantity,Price,Discount,Total,product_category,OrderDate,PaymentMethod
+101,John Doe,28,Male,P001,Laptop,2,1200,0.1,2160,Electronics,2024-01-01,Credit Card
+102,Jane Smith,22,Female,P002,Smartphone,3,800,0.2,1920,Electronics,2024-01-02,PayPal
+103,Bob Johnson,32,Male,P003,Wireless Mouse,1,30,0,30,Electronics,2024-01-03,Debit Card
+104,Alice Williams,26,Female,P004,Desk Chair,2,150,0.15,255,Furniture,2024-01-04,Credit Card
+105,Charlie Brown,29,Male,P005,Running Shoes,1,80,0,80,Fashion,2024-01-05,Cash on Delivery
+106,Emily Davis,25,Female,P006,Backpack,3,50,0.05,142.5,Accessories,2024-01-06,Credit Card
+107,Michael Miller,35,Male,P007,HD Television,1,700,0.1,630,Electronics,2024-01-07,PayPal
+108,Susan Taylor,28,Female,P008,Office Desk,1,200,0,200,Furniture,2024-01-08,Credit Card
+109,David Clark,30,Male,P009,Graphic Tablet,2,300,0.2,480,Electronics,2024-01-09,Debit Card
+110,Emma White,24,Female,P010,Denim Jeans,3,60,0.1,162,Fashion,2024-01-10,Credit Card
+111,Mark Turner,26,Male,P011,Bluetooth Earphones,1,40,0,40,Electronics,2024-01-11,Cash on Delivery
+112,Olivia Davis,27,Female,P012,Coffee Table,2,120,0.05,228,Furniture,2024-01-12,PayPal
+113,James Brown,31,Male,P013,Smartwatch,1,100,0,100,Electronics,2024-01-13,Credit Card
+114,Grace Smith,23,Female,P014,Sunglasses,1,25,0,25,Accessories,2024-01-14,Debit Card
+115,Aiden White,29,Male,P015,Printed T-Shirt,2,20,0,40,Fashion,2024-01-15,PayPal
+116,Emma Johnson,27,Female,P016,External Hard Drive,1,80,0.15,68,Electronics,2024-01-16,Credit Card
+117,Logan Turner,30,Male,P017,Leather Wallet,3,15,0,45,Accessories,2024-01-17,Cash on Delivery
+118,Lily Clark,24,Female,P018,Office Chair,1,100,0,100,Furniture,2024-01-18,Debit Card
+119,Noah Smith,28,Male,P019,Running Jacket,2,70,0.1,126,Fashion,2024-01-19,Credit Card
+120,Sophia Davis,23,Female,P020,Wireless Headphones,1,50,0.05,47.5,Electronics,2024-01-20,PayPal
+121,Ethan Brown,29,Male,P021,Tablet,2,400,0,800,Electronics,2024-01-21,Credit Card
+122,Ava White,25,Female,P022,Necklace,1,35,0.2,28,Accessories,2024-01-22,Debit Card
+123,Liam Taylor,27,Male,P023,Sweater,1,45,0,45,Fashion,2024-01-23,Cash on Delivery
+124,Olivia Turner,32,Female,P024,Desk Lamp,2,25,0.1,45,Home & Living,2024-01-24,PayPal
+125,Lucas Clark,28,Male,P025,Wireless Keyboard,3,60,0.05,171,Electronics,2024-01-25,Credit Card
+126,Mia Brown,23,Female,P026,Sling Bag,1,30,0.1,27,Accessories,2024-01-26,Debit Card
+127,Jack White,31,Male,P027,Monitor,1,250,0,250,Electronics,2024-01-27,Cash on Delivery
+128,Harper Taylor,26,Female,P028,Sneakers,2,55,0.2,88,Fashion,2024-01-28,PayPal
+129,Owen Smith,29,Male,P029,Printer,1,150,0.1,135,Electronics,2024-01-29,Credit Card
+130,Ava Davis,24,Female,P030,Headphones,2,40,0,80,Electronics,2024-01-30,Debit Card
+131,Isaac Johnson,28,Male,P031,Gaming Console,1,400,0.1,360,Electronics,2024-01-31,Debit Card
+132,Leah Davis,25,Female,P032,Running Shorts,2,20,0.05,38,Fashion,2024-02-01,Credit Card
+133,Nathan White,29,Male,P033,Wireless Charger,1,30,0,30,Electronics,2024-02-02,Cash on Delivery
+134,Sofia Brown,23,Female,P034,Handbag,1,50,0,50,Accessories,2024-02-03,PayPal
+135,Christopher Taylor,27,Male,P035,Cookware Set,1,150,0.2,120,Home & Living,2024-02-04,Debit Card
+136,Zoe Clark,30,Female,P036,Smart Thermostat,2,80,0.1,144,Electronics,2024-02-05,Credit Card
+137,Henry Turner,26,Male,P037,Running Jacket,1,70,0,70,Fashion,2024-02-06,Debit Card
+138,Aria Miller,24,Female,P038,Backpack,1,50,0,50,Accessories,2024-02-07,Cash on Delivery
+139,Liam Davis,27,Male,P039,Portable Speaker,2,30,0.05,57,Electronics,2024-02-08,PayPal
+140,Ella Smith,23,Female,P040,Yoga Mat,1,20,0,20,Fitness,2024-02-09,Credit Card
+141,Andrew Brown,29,Male,P041,Wireless Earbuds,1,40,0.1,36,Electronics,2024-02-10,Cash on Delivery
+142,Scarlett White,25,Female,P042,Desk Organizer,1,15,0,15,Office Supplies,2024-02-11,Debit Card
+143,Oliver Taylor,27,Male,P043,Sweatpants,2,25,0.05,47.5,Fashion,2024-02-12,Credit Card
+144,Aurora Clark,24,Female,P044,Hand Mixer,1,30,0,30,Home & Living,2024-02-13,PayPal
+145,Logan Davis,31,Male,P045,Bluetooth Speaker,1,50,0.15,42.5,Electronics,2024-02-14,Cash on Delivery
+146,Penelope Turner,28,Female,P046,Sports Bra,2,15,0,30,Fitness,2024-02-15,Debit Card
+147,Leo White,26,Male,P047,USB Flash Drive,3,10,0.05,28.5,Electronics,2024-02-16,Credit Card
+148,Stella Brown,22,Female,P048,Travel Mug,1,15,0,15,Home & Living,2024-02-17,Cash on Delivery
+149,Mason Taylor,30,Male,P049,Wireless Mouse,1,25,0.1,22.5,Electronics,2024-02-18,PayPal
+150,Hazel Clark,25,Female,P050,Notebook,2,10,0,20,Office Supplies,2024-02-19,Credit Card
+151,Aiden Davis,29,Male,P051,Running Shoes,1,80,0.2,64,Fashion,2024-02-20,Debit Card
+152,Luna White,23,Female,P052,Sunglasses,1,25,0,25,Accessories,2024-02-21,Cash on Delivery
+153,Carter Turner,27,Male,P053,Graphic Tablet,2,300,0.1,540,Electronics,2024-02-22,PayPal
+154,Eva Brown,24,Female,P054,Desk Lamp,1,25,0,25,Home & Living,2024-02-23,Credit Card
+155,Jackson Davis,31,Male,P055,Denim Jeans,2,60,0.1,108,Fashion,2024-02-24,Debit Card
+156,Chloe Smith,28,Female,P056,Wireless Headphones,1,50,0.05,47.5,Electronics,2024-02-25,Cash on Delivery
+157,Liam White,23,Male,P057,Office Chair,1,100,0,100,Furniture,2024-02-26,PayPal
+158,Abigail Taylor,26,Female,P058,Laptop,1,1200,0,1200,Electronics,2024-02-27,Credit Card
+159,James Clark,30,Male,P059,Smartphone,2,800,0.15,1360,Electronics,2024-02-28,Debit Card
+160,Emma Turner,24,Female,P060,External Hard Drive,1,80,0.1,72,Electronics,2024-02-29,Cash on Delivery

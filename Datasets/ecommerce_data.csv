@@ -1,0 +1,1001 @@
+order_id,customer_id,product_id,product_category,price,quantity,order_date,shipping_date,payment_method,shipping_city,customer_gender,customer_age
+0,C6873,P15137,Clothing,831,2,2023-12-17,2023-12-17,Credit Card,Seattle,Female,44
+1,C1042,P33890,Clothing,805,2,2023-12-20,2023-12-23,Cash on Delivery,San Francisco,Male,56
+2,C1861,P79656,Books,659,2,2023-12-18,2023-12-23,Cash on Delivery,New York,Male,39
+3,C4839,P15423,Home Goods,676,1,2023-12-21,2023-12-25,Credit Card,Seattle,Female,44
+4,C1090,P82884,Books,355,4,2023-12-18,2023-12-17,PayPal,San Francisco,Male,36
+5,C1024,P99559,Electronics,157,1,2023-12-23,2023-12-19,Credit Card,Los Angeles,Male,18
+6,C2229,P62661,Books,845,1,2023-12-17,2023-12-19,Cash on Delivery,New York,Female,59
+7,C7778,P40220,Clothing,155,2,2023-12-18,2023-12-17,Cash on Delivery,Chicago,Male,25
+8,C5328,P84389,Electronics,44,3,2023-12-19,2023-12-26,Credit Card,New York,Female,32
+9,C8128,P55807,Clothing,64,3,2023-12-15,2023-12-22,Credit Card,Seattle,Female,41
+10,C5831,P28203,Electronics,364,4,2023-12-24,2023-12-22,Credit Card,Chicago,Male,60
+11,C5075,P80974,Books,329,4,2023-12-23,2023-12-21,Credit Card,New York,Male,27
+12,C7969,P74134,Books,839,3,2023-12-15,2023-12-26,Credit Card,New York,Male,64
+13,C5409,P31228,Books,837,4,2023-12-16,2023-12-19,Credit Card,New York,Male,20
+14,C9114,P68955,Home Goods,532,3,2023-12-24,2023-12-20,Cash on Delivery,San Francisco,Male,59
+15,C2156,P57519,Electronics,245,4,2023-12-22,2023-12-24,Cash on Delivery,New York,Male,63
+16,C6259,P83302,Electronics,567,2,2023-12-22,2023-12-26,Credit Card,New York,Male,25
+17,C2860,P74101,Books,140,3,2023-12-21,2023-12-23,Cash on Delivery,New York,Female,28
+18,C9019,P66428,Electronics,232,1,2023-12-17,2023-12-23,Cash on Delivery,New York,Male,19
+19,C6355,P69961,Home Goods,869,3,2023-12-20,2023-12-19,PayPal,Los Angeles,Male,59
+20,C3268,P35424,Home Goods,186,4,2023-12-15,2023-12-23,PayPal,New York,Female,31
+21,C7503,P43734,Home Goods,121,1,2023-12-21,2023-12-25,Cash on Delivery,Seattle,Female,56
+22,C6636,P10977,Books,455,3,2023-12-20,2023-12-21,Credit Card,New York,Male,46
+23,C8325,P53620,Clothing,28,3,2023-12-21,2023-12-23,PayPal,Los Angeles,Male,26
+24,C5011,P70768,Books,12,1,2023-12-21,2023-12-22,Cash on Delivery,Chicago,Female,59
+25,C7926,P15749,Home Goods,689,3,2023-12-20,2023-12-19,PayPal,Chicago,Male,29
+26,C7836,P28773,Clothing,904,1,2023-12-21,2023-12-24,Cash on Delivery,Chicago,Male,21
+27,C8754,P52636,Electronics,564,4,2023-12-17,2023-12-18,Cash on Delivery,Chicago,Female,24
+28,C6743,P97907,Books,489,1,2023-12-19,2023-12-20,Credit Card,Chicago,Female,32
+29,C7038,P29528,Books,226,2,2023-12-24,2023-12-19,PayPal,Seattle,Female,44
+30,C5003,P40873,Books,153,1,2023-12-19,2023-12-21,Credit Card,Seattle,Male,47
+31,C4407,P41864,Home Goods,356,4,2023-12-23,2023-12-23,Credit Card,San Francisco,Male,34
+32,C1783,P86737,Electronics,419,4,2023-12-19,2023-12-24,PayPal,Los Angeles,Female,27
+33,C1034,P67377,Electronics,682,2,2023-12-18,2023-12-21,PayPal,Seattle,Female,46
+34,C6899,P40188,Clothing,600,2,2023-12-20,2023-12-21,Credit Card,Seattle,Male,36
+35,C7970,P37476,Home Goods,178,4,2023-12-24,2023-12-19,Cash on Delivery,Chicago,Female,46
+36,C3274,P29112,Clothing,420,3,2023-12-21,2023-12-26,Credit Card,San Francisco,Male,46
+37,C1342,P87018,Home Goods,231,2,2023-12-22,2023-12-17,Cash on Delivery,Chicago,Male,36
+38,C7506,P95144,Electronics,925,1,2023-12-17,2023-12-17,PayPal,San Francisco,Female,30
+39,C8281,P37987,Clothing,23,2,2023-12-18,2023-12-20,Cash on Delivery,San Francisco,Male,52
+40,C2609,P10697,Home Goods,468,4,2023-12-20,2023-12-21,PayPal,New York,Male,24
+41,C9416,P96494,Books,633,3,2023-12-21,2023-12-25,Cash on Delivery,New York,Female,44
+42,C3083,P83509,Books,516,1,2023-12-20,2023-12-26,Cash on Delivery,Chicago,Female,59
+43,C6773,P58391,Books,15,2,2023-12-23,2023-12-17,Credit Card,Chicago,Female,33
+44,C2574,P47706,Books,82,4,2023-12-22,2023-12-25,Cash on Delivery,Seattle,Female,39
+45,C7205,P38599,Books,914,2,2023-12-15,2023-12-25,PayPal,New York,Male,22
+46,C2746,P83365,Clothing,702,4,2023-12-21,2023-12-22,Credit Card,New York,Female,19
+47,C4059,P70647,Clothing,109,3,2023-12-24,2023-12-19,PayPal,Chicago,Female,20
+48,C3628,P70123,Clothing,526,2,2023-12-20,2023-12-24,Credit Card,New York,Male,37
+49,C2622,P38483,Home Goods,544,1,2023-12-24,2023-12-23,PayPal,Los Angeles,Male,37
+50,C9166,P77082,Electronics,610,3,2023-12-24,2023-12-23,PayPal,San Francisco,Female,63
+51,C9528,P18620,Electronics,288,2,2023-12-19,2023-12-19,PayPal,Los Angeles,Female,18
+52,C3393,P29197,Books,392,2,2023-12-24,2023-12-20,PayPal,Seattle,Male,49
+53,C6215,P59596,Electronics,491,1,2023-12-22,2023-12-24,PayPal,San Francisco,Male,56
+54,C8735,P75414,Home Goods,713,3,2023-12-16,2023-12-26,Cash on Delivery,San Francisco,Male,30
+55,C6873,P78592,Electronics,370,1,2023-12-19,2023-12-23,Cash on Delivery,Los Angeles,Female,55
+56,C9426,P25562,Electronics,627,4,2023-12-16,2023-12-25,Cash on Delivery,Los Angeles,Male,37
+57,C6920,P33717,Electronics,734,4,2023-12-18,2023-12-22,Cash on Delivery,San Francisco,Male,51
+58,C4248,P32213,Clothing,167,1,2023-12-22,2023-12-19,Cash on Delivery,Seattle,Female,28
+59,C2402,P71363,Home Goods,451,1,2023-12-20,2023-12-22,Cash on Delivery,Chicago,Male,29
+60,C8529,P58851,Clothing,454,1,2023-12-19,2023-12-20,Cash on Delivery,Chicago,Male,50
+61,C2940,P38847,Electronics,883,4,2023-12-15,2023-12-20,Credit Card,Seattle,Male,34
+62,C1596,P85313,Books,767,4,2023-12-21,2023-12-20,PayPal,New York,Male,41
+63,C3499,P39961,Electronics,131,4,2023-12-22,2023-12-18,Cash on Delivery,New York,Female,63
+64,C9953,P42398,Clothing,493,1,2023-12-24,2023-12-24,Cash on Delivery,San Francisco,Male,57
+65,C1107,P74382,Books,277,3,2023-12-15,2023-12-26,Credit Card,Chicago,Female,38
+66,C7693,P91599,Electronics,240,2,2023-12-15,2023-12-20,Cash on Delivery,Seattle,Female,39
+67,C4034,P27916,Books,737,2,2023-12-15,2023-12-22,Credit Card,Seattle,Female,62
+68,C7506,P52072,Books,119,2,2023-12-16,2023-12-18,Cash on Delivery,Chicago,Female,23
+69,C8466,P57577,Home Goods,710,1,2023-12-22,2023-12-19,Cash on Delivery,San Francisco,Female,20
+70,C7911,P62304,Home Goods,926,1,2023-12-16,2023-12-22,Credit Card,Seattle,Female,28
+71,C4956,P87650,Home Goods,263,1,2023-12-19,2023-12-19,Cash on Delivery,Chicago,Female,57
+72,C5173,P12583,Books,390,4,2023-12-15,2023-12-19,Credit Card,Chicago,Female,36
+73,C1033,P83028,Electronics,701,3,2023-12-15,2023-12-19,Credit Card,New York,Female,37
+74,C2216,P23385,Electronics,189,1,2023-12-23,2023-12-18,Credit Card,Los Angeles,Male,45
+75,C6843,P67377,Electronics,91,4,2023-12-20,2023-12-23,Cash on Delivery,Chicago,Female,36
+76,C1172,P48842,Electronics,135,1,2023-12-23,2023-12-24,Credit Card,New York,Female,50
+77,C5785,P75474,Clothing,240,4,2023-12-15,2023-12-24,Credit Card,San Francisco,Female,27
+78,C6966,P56628,Books,348,1,2023-12-16,2023-12-21,Credit Card,New York,Male,36
+79,C2530,P36335,Home Goods,709,2,2023-12-19,2023-12-24,Credit Card,Los Angeles,Female,36
+80,C3252,P21480,Electronics,89,4,2023-12-20,2023-12-17,Credit Card,Chicago,Male,59
+81,C5984,P54655,Home Goods,346,2,2023-12-24,2023-12-17,Cash on Delivery,Seattle,Male,46
+82,C7586,P56391,Clothing,264,4,2023-12-16,2023-12-19,PayPal,Chicago,Male,57
+83,C9894,P73683,Electronics,737,3,2023-12-17,2023-12-18,Cash on Delivery,Chicago,Male,34
+84,C2852,P63717,Home Goods,630,4,2023-12-18,2023-12-23,Credit Card,New York,Female,59
+85,C3378,P49646,Electronics,196,2,2023-12-20,2023-12-21,Credit Card,New York,Male,29
+86,C4829,P71695,Electronics,282,2,2023-12-21,2023-12-25,Cash on Delivery,San Francisco,Female,25
+87,C4830,P66264,Books,684,3,2023-12-19,2023-12-20,Credit Card,San Francisco,Female,37
+88,C7183,P27489,Books,533,4,2023-12-16,2023-12-19,Credit Card,New York,Female,29
+89,C1708,P48577,Books,391,4,2023-12-21,2023-12-25,PayPal,San Francisco,Male,64
+90,C3844,P90954,Home Goods,528,4,2023-12-24,2023-12-24,PayPal,Los Angeles,Female,21
+91,C6778,P45384,Books,570,1,2023-12-18,2023-12-19,Credit Card,Los Angeles,Female,46
+92,C6532,P97074,Clothing,921,2,2023-12-19,2023-12-26,PayPal,Los Angeles,Male,62
+93,C8062,P73834,Clothing,373,4,2023-12-17,2023-12-26,Cash on Delivery,Chicago,Male,32
+94,C7370,P32659,Home Goods,521,4,2023-12-18,2023-12-23,Cash on Delivery,Los Angeles,Female,25
+95,C2426,P12167,Clothing,549,4,2023-12-20,2023-12-23,PayPal,Los Angeles,Female,60
+96,C6719,P30970,Books,918,3,2023-12-15,2023-12-22,Cash on Delivery,San Francisco,Female,38
+97,C7111,P45514,Clothing,695,4,2023-12-16,2023-12-25,Cash on Delivery,Chicago,Male,34
+98,C7375,P10820,Home Goods,563,2,2023-12-19,2023-12-22,Cash on Delivery,New York,Female,57
+99,C5937,P22163,Books,275,4,2023-12-24,2023-12-25,Credit Card,Seattle,Female,37
+100,C7212,P21831,Home Goods,894,2,2023-12-23,2023-12-21,PayPal,San Francisco,Male,34
+101,C1571,P13091,Electronics,630,2,2023-12-19,2023-12-17,PayPal,New York,Male,46
+102,C2200,P54734,Electronics,101,3,2023-12-16,2023-12-24,Cash on Delivery,Chicago,Female,19
+103,C2690,P11622,Home Goods,970,4,2023-12-23,2023-12-26,PayPal,New York,Male,62
+104,C9493,P81305,Home Goods,109,4,2023-12-18,2023-12-26,Credit Card,Seattle,Female,64
+105,C2593,P23877,Clothing,439,3,2023-12-22,2023-12-17,Credit Card,New York,Male,44
+106,C1920,P52035,Clothing,100,2,2023-12-21,2023-12-21,Cash on Delivery,San Francisco,Male,51
+107,C6377,P27984,Home Goods,164,1,2023-12-23,2023-12-18,PayPal,San Francisco,Male,27
+108,C9890,P53351,Electronics,679,4,2023-12-19,2023-12-26,PayPal,New York,Male,47
+109,C3004,P73050,Home Goods,329,2,2023-12-23,2023-12-24,Credit Card,Los Angeles,Male,27
+110,C6491,P69204,Home Goods,557,4,2023-12-20,2023-12-22,PayPal,Chicago,Female,33
+111,C8730,P43635,Home Goods,459,3,2023-12-16,2023-12-25,Cash on Delivery,New York,Male,28
+112,C7267,P16431,Books,447,1,2023-12-19,2023-12-21,Cash on Delivery,San Francisco,Female,63
+113,C6120,P39830,Electronics,369,3,2023-12-24,2023-12-17,Credit Card,Chicago,Female,46
+114,C9749,P92835,Electronics,490,4,2023-12-23,2023-12-22,Cash on Delivery,Los Angeles,Male,58
+115,C4510,P23936,Books,190,2,2023-12-24,2023-12-18,PayPal,Los Angeles,Male,33
+116,C1260,P99905,Books,155,2,2023-12-19,2023-12-26,Credit Card,Los Angeles,Male,39
+117,C5309,P66911,Books,643,3,2023-12-16,2023-12-22,PayPal,Los Angeles,Female,46
+118,C6157,P47101,Home Goods,283,2,2023-12-19,2023-12-20,Cash on Delivery,San Francisco,Female,62
+119,C6477,P95331,Electronics,874,4,2023-12-16,2023-12-25,Credit Card,San Francisco,Female,34
+120,C4675,P83723,Electronics,537,3,2023-12-22,2023-12-17,PayPal,San Francisco,Male,59
+121,C3740,P21863,Clothing,515,4,2023-12-18,2023-12-20,Credit Card,Los Angeles,Male,55
+122,C5340,P27393,Clothing,575,4,2023-12-19,2023-12-26,Credit Card,San Francisco,Female,22
+123,C9427,P90589,Books,742,4,2023-12-20,2023-12-22,Cash on Delivery,San Francisco,Female,42
+124,C7518,P63088,Electronics,502,3,2023-12-22,2023-12-18,Cash on Delivery,Seattle,Female,30
+125,C1897,P63205,Home Goods,418,1,2023-12-23,2023-12-26,Credit Card,New York,Male,32
+126,C6175,P15758,Books,948,4,2023-12-22,2023-12-19,Cash on Delivery,San Francisco,Female,47
+127,C5105,P77179,Clothing,627,1,2023-12-17,2023-12-18,Credit Card,Chicago,Female,45
+128,C2942,P12720,Books,273,2,2023-12-24,2023-12-17,Credit Card,San Francisco,Male,29
+129,C4646,P71071,Home Goods,95,4,2023-12-22,2023-12-25,Cash on Delivery,San Francisco,Female,43
+130,C2394,P62854,Books,890,3,2023-12-22,2023-12-18,PayPal,Seattle,Female,64
+131,C3578,P95197,Electronics,876,4,2023-12-22,2023-12-19,PayPal,Chicago,Male,51
+132,C1282,P23992,Home Goods,590,2,2023-12-22,2023-12-26,PayPal,San Francisco,Female,46
+133,C1933,P50116,Home Goods,474,4,2023-12-20,2023-12-17,PayPal,Chicago,Female,63
+134,C8538,P40577,Electronics,168,2,2023-12-18,2023-12-17,PayPal,San Francisco,Female,30
+135,C1049,P56669,Clothing,329,4,2023-12-15,2023-12-26,Credit Card,New York,Male,38
+136,C9531,P53589,Clothing,658,4,2023-12-21,2023-12-21,Credit Card,San Francisco,Female,24
+137,C1525,P12442,Electronics,846,2,2023-12-16,2023-12-22,Credit Card,Chicago,Male,36
+138,C4696,P64343,Books,386,4,2023-12-21,2023-12-23,PayPal,New York,Female,59
+139,C8081,P14030,Books,644,2,2023-12-22,2023-12-17,Cash on Delivery,Seattle,Female,20
+140,C1052,P65550,Clothing,950,2,2023-12-22,2023-12-22,PayPal,Seattle,Male,54
+141,C9672,P18916,Clothing,372,3,2023-12-18,2023-12-24,Credit Card,San Francisco,Female,26
+142,C8021,P62013,Home Goods,322,1,2023-12-23,2023-12-22,Credit Card,New York,Male,60
+143,C4720,P97455,Electronics,875,3,2023-12-19,2023-12-24,Credit Card,New York,Male,37
+144,C4808,P68173,Home Goods,473,1,2023-12-18,2023-12-18,PayPal,Los Angeles,Female,22
+145,C8404,P53545,Books,211,2,2023-12-16,2023-12-21,Credit Card,San Francisco,Male,46
+146,C2377,P80872,Books,612,3,2023-12-24,2023-12-17,Credit Card,Los Angeles,Male,18
+147,C1902,P40484,Home Goods,521,4,2023-12-20,2023-12-19,Cash on Delivery,Los Angeles,Female,42
+148,C9420,P48009,Home Goods,230,4,2023-12-16,2023-12-17,Cash on Delivery,San Francisco,Male,43
+149,C8005,P25094,Home Goods,251,2,2023-12-23,2023-12-17,Cash on Delivery,New York,Male,41
+150,C2406,P64488,Books,507,3,2023-12-17,2023-12-19,Cash on Delivery,Chicago,Male,23
+151,C1852,P72423,Books,259,4,2023-12-24,2023-12-26,Cash on Delivery,Chicago,Female,62
+152,C7972,P48108,Books,645,3,2023-12-19,2023-12-22,Credit Card,Los Angeles,Male,39
+153,C7311,P36781,Clothing,91,1,2023-12-15,2023-12-23,Cash on Delivery,New York,Female,35
+154,C6383,P46362,Electronics,434,3,2023-12-20,2023-12-25,PayPal,Los Angeles,Male,44
+155,C1741,P72968,Books,281,3,2023-12-18,2023-12-18,Cash on Delivery,Los Angeles,Female,63
+156,C6647,P83240,Home Goods,162,3,2023-12-19,2023-12-22,Credit Card,New York,Female,40
+157,C4284,P99423,Clothing,502,3,2023-12-19,2023-12-25,Cash on Delivery,New York,Male,48
+158,C8750,P69791,Electronics,157,1,2023-12-16,2023-12-23,Credit Card,Los Angeles,Female,21
+159,C8123,P46997,Books,604,2,2023-12-24,2023-12-20,Cash on Delivery,Seattle,Male,33
+160,C7154,P20462,Books,289,4,2023-12-16,2023-12-22,Credit Card,Seattle,Male,28
+161,C4025,P62017,Books,930,4,2023-12-24,2023-12-24,Credit Card,San Francisco,Male,57
+162,C5795,P40603,Home Goods,211,1,2023-12-18,2023-12-25,Credit Card,Los Angeles,Female,50
+163,C9600,P43694,Clothing,764,3,2023-12-15,2023-12-21,Credit Card,New York,Female,24
+164,C7008,P47594,Books,978,4,2023-12-24,2023-12-25,Cash on Delivery,San Francisco,Female,23
+165,C7937,P92430,Home Goods,560,4,2023-12-16,2023-12-20,PayPal,Chicago,Male,48
+166,C2804,P97994,Clothing,395,3,2023-12-22,2023-12-24,PayPal,San Francisco,Male,58
+167,C8997,P52363,Clothing,517,2,2023-12-22,2023-12-19,Cash on Delivery,New York,Male,39
+168,C1470,P24508,Electronics,228,1,2023-12-15,2023-12-18,Cash on Delivery,Los Angeles,Female,27
+169,C1416,P99309,Books,927,4,2023-12-22,2023-12-20,Cash on Delivery,New York,Female,20
+170,C3843,P74184,Electronics,291,3,2023-12-16,2023-12-17,PayPal,San Francisco,Female,56
+171,C1773,P83582,Books,12,2,2023-12-18,2023-12-26,Cash on Delivery,Chicago,Male,49
+172,C9723,P23240,Books,995,3,2023-12-18,2023-12-22,PayPal,San Francisco,Female,36
+173,C9704,P48264,Books,242,2,2023-12-17,2023-12-26,Credit Card,Los Angeles,Female,39
+174,C6976,P81179,Electronics,178,4,2023-12-22,2023-12-20,PayPal,Chicago,Female,45
+175,C7312,P56110,Home Goods,666,1,2023-12-17,2023-12-23,Credit Card,New York,Female,61
+176,C8282,P62269,Home Goods,677,4,2023-12-21,2023-12-20,Cash on Delivery,New York,Female,22
+177,C4330,P41032,Books,390,3,2023-12-22,2023-12-26,Credit Card,Los Angeles,Male,31
+178,C6284,P20283,Clothing,613,2,2023-12-17,2023-12-22,Credit Card,Seattle,Female,57
+179,C1503,P29406,Home Goods,44,4,2023-12-20,2023-12-26,Cash on Delivery,Los Angeles,Female,41
+180,C7841,P14007,Electronics,714,1,2023-12-15,2023-12-24,Credit Card,Los Angeles,Male,40
+181,C3731,P21212,Home Goods,823,2,2023-12-23,2023-12-17,Cash on Delivery,Seattle,Male,27
+182,C1044,P76168,Books,827,2,2023-12-24,2023-12-25,PayPal,Seattle,Male,64
+183,C7728,P14354,Clothing,101,3,2023-12-23,2023-12-23,PayPal,New York,Female,40
+184,C1301,P66649,Home Goods,949,1,2023-12-15,2023-12-23,PayPal,San Francisco,Female,48
+185,C9117,P59253,Electronics,893,1,2023-12-19,2023-12-20,PayPal,Los Angeles,Male,31
+186,C7202,P41008,Electronics,762,4,2023-12-24,2023-12-19,Cash on Delivery,Los Angeles,Male,20
+187,C1753,P47097,Electronics,563,2,2023-12-23,2023-12-25,PayPal,San Francisco,Female,41
+188,C5013,P38649,Home Goods,705,1,2023-12-23,2023-12-25,PayPal,New York,Female,25
+189,C7174,P21327,Books,604,2,2023-12-16,2023-12-20,PayPal,Los Angeles,Female,48
+190,C2670,P55149,Home Goods,586,4,2023-12-21,2023-12-26,PayPal,Los Angeles,Male,21
+191,C1289,P58280,Clothing,928,4,2023-12-15,2023-12-19,PayPal,New York,Male,45
+192,C2285,P20002,Home Goods,735,2,2023-12-17,2023-12-22,Cash on Delivery,Chicago,Male,61
+193,C6713,P17028,Electronics,792,2,2023-12-17,2023-12-25,Cash on Delivery,San Francisco,Male,55
+194,C5857,P11544,Electronics,954,4,2023-12-17,2023-12-26,PayPal,Chicago,Male,20
+195,C2293,P66969,Home Goods,439,3,2023-12-18,2023-12-24,Credit Card,San Francisco,Male,56
+196,C2020,P54816,Clothing,277,2,2023-12-16,2023-12-20,Credit Card,Chicago,Male,49
+197,C2594,P35550,Electronics,961,1,2023-12-21,2023-12-24,Cash on Delivery,New York,Female,30
+198,C7491,P29158,Electronics,57,1,2023-12-20,2023-12-17,Credit Card,San Francisco,Male,40
+199,C6084,P68006,Books,633,2,2023-12-15,2023-12-21,Credit Card,Los Angeles,Female,34
+200,C8185,P62368,Home Goods,748,3,2023-12-24,2023-12-19,Cash on Delivery,Chicago,Female,56
+201,C4253,P22763,Books,11,2,2023-12-22,2023-12-26,PayPal,Seattle,Male,41
+202,C2239,P15901,Electronics,609,4,2023-12-16,2023-12-20,Cash on Delivery,New York,Female,31
+203,C7027,P91220,Home Goods,72,2,2023-12-18,2023-12-21,PayPal,Los Angeles,Male,47
+204,C9146,P68841,Books,945,4,2023-12-20,2023-12-18,Credit Card,Seattle,Female,45
+205,C7659,P14372,Books,540,2,2023-12-17,2023-12-23,Cash on Delivery,Los Angeles,Male,26
+206,C8768,P77633,Home Goods,862,3,2023-12-20,2023-12-17,Credit Card,Seattle,Male,22
+207,C8248,P91918,Books,44,4,2023-12-19,2023-12-26,PayPal,San Francisco,Female,19
+208,C6974,P87739,Clothing,533,3,2023-12-24,2023-12-23,Credit Card,Seattle,Male,27
+209,C8021,P70415,Home Goods,766,2,2023-12-24,2023-12-18,Credit Card,Chicago,Male,40
+210,C5943,P19142,Clothing,511,2,2023-12-18,2023-12-21,Credit Card,Seattle,Male,21
+211,C5817,P73118,Home Goods,992,4,2023-12-18,2023-12-20,PayPal,Seattle,Female,40
+212,C3170,P98843,Books,959,4,2023-12-17,2023-12-25,PayPal,San Francisco,Male,26
+213,C1832,P68918,Electronics,166,2,2023-12-18,2023-12-17,Credit Card,Los Angeles,Female,32
+214,C7955,P26618,Electronics,591,1,2023-12-23,2023-12-24,Credit Card,San Francisco,Male,61
+215,C3412,P12901,Electronics,844,3,2023-12-19,2023-12-22,Credit Card,Chicago,Male,49
+216,C3758,P58425,Home Goods,408,4,2023-12-21,2023-12-21,PayPal,Chicago,Female,39
+217,C9743,P60155,Home Goods,409,4,2023-12-15,2023-12-21,PayPal,New York,Female,62
+218,C9496,P46401,Books,813,4,2023-12-23,2023-12-23,PayPal,Los Angeles,Female,33
+219,C7971,P84157,Electronics,842,2,2023-12-21,2023-12-23,Cash on Delivery,Chicago,Male,55
+220,C3888,P97821,Clothing,285,3,2023-12-20,2023-12-21,Credit Card,Los Angeles,Female,57
+221,C8715,P60039,Electronics,821,4,2023-12-20,2023-12-22,Cash on Delivery,New York,Female,64
+222,C3754,P82115,Home Goods,742,1,2023-12-16,2023-12-19,Credit Card,Seattle,Female,18
+223,C5368,P25209,Home Goods,371,2,2023-12-19,2023-12-22,PayPal,New York,Female,50
+224,C8385,P67978,Clothing,329,2,2023-12-23,2023-12-19,Cash on Delivery,Chicago,Female,29
+225,C9164,P31375,Electronics,678,4,2023-12-23,2023-12-26,Credit Card,San Francisco,Male,28
+226,C6231,P47207,Electronics,381,1,2023-12-16,2023-12-26,Cash on Delivery,Chicago,Male,38
+227,C7613,P25877,Home Goods,721,4,2023-12-20,2023-12-17,PayPal,Chicago,Male,54
+228,C1678,P78643,Clothing,137,3,2023-12-17,2023-12-18,PayPal,New York,Male,54
+229,C1714,P59477,Electronics,491,1,2023-12-19,2023-12-24,Cash on Delivery,New York,Male,56
+230,C9736,P91734,Home Goods,904,3,2023-12-19,2023-12-17,Cash on Delivery,Seattle,Female,28
+231,C1563,P78556,Clothing,942,3,2023-12-16,2023-12-18,Cash on Delivery,San Francisco,Male,55
+232,C5309,P99534,Books,356,3,2023-12-24,2023-12-21,Credit Card,Chicago,Female,46
+233,C2782,P33456,Books,499,4,2023-12-15,2023-12-24,Credit Card,Seattle,Female,39
+234,C1452,P42118,Books,38,4,2023-12-19,2023-12-21,Credit Card,San Francisco,Female,63
+235,C8627,P29419,Clothing,959,2,2023-12-19,2023-12-17,Credit Card,San Francisco,Female,52
+236,C4489,P95078,Home Goods,224,2,2023-12-19,2023-12-22,PayPal,Chicago,Male,57
+237,C6668,P80015,Home Goods,664,4,2023-12-24,2023-12-23,PayPal,New York,Male,46
+238,C9699,P79048,Electronics,567,2,2023-12-18,2023-12-18,Credit Card,San Francisco,Female,33
+239,C1147,P18529,Books,250,3,2023-12-16,2023-12-19,Credit Card,San Francisco,Female,52
+240,C7652,P34698,Electronics,661,1,2023-12-23,2023-12-21,Cash on Delivery,Los Angeles,Female,26
+241,C6390,P71116,Electronics,532,3,2023-12-24,2023-12-18,Credit Card,New York,Male,36
+242,C2614,P24764,Clothing,724,1,2023-12-23,2023-12-26,Credit Card,Chicago,Female,52
+243,C7900,P91131,Home Goods,844,1,2023-12-20,2023-12-25,PayPal,Los Angeles,Female,38
+244,C1440,P92690,Books,321,3,2023-12-17,2023-12-25,PayPal,New York,Male,60
+245,C3551,P98194,Electronics,334,4,2023-12-16,2023-12-21,PayPal,Chicago,Female,39
+246,C5162,P61325,Clothing,786,1,2023-12-18,2023-12-19,Cash on Delivery,Chicago,Female,60
+247,C5134,P52561,Books,788,3,2023-12-24,2023-12-19,Cash on Delivery,San Francisco,Female,54
+248,C5994,P88893,Home Goods,353,2,2023-12-23,2023-12-26,Cash on Delivery,Seattle,Female,48
+249,C6386,P92119,Clothing,479,1,2023-12-24,2023-12-25,Cash on Delivery,Chicago,Female,40
+250,C6679,P67454,Books,918,3,2023-12-19,2023-12-26,Credit Card,Los Angeles,Female,34
+251,C6763,P42427,Home Goods,940,4,2023-12-19,2023-12-22,Cash on Delivery,Seattle,Male,60
+252,C7479,P30507,Home Goods,246,4,2023-12-23,2023-12-18,Credit Card,New York,Male,18
+253,C6708,P10936,Home Goods,794,4,2023-12-24,2023-12-21,Credit Card,Los Angeles,Female,44
+254,C7381,P56234,Books,147,2,2023-12-20,2023-12-23,Credit Card,San Francisco,Male,43
+255,C2505,P46082,Electronics,652,1,2023-12-22,2023-12-24,Credit Card,San Francisco,Female,50
+256,C6708,P47560,Electronics,627,3,2023-12-24,2023-12-19,PayPal,Seattle,Female,49
+257,C3999,P40540,Home Goods,818,1,2023-12-20,2023-12-24,Cash on Delivery,Los Angeles,Male,57
+258,C2240,P74788,Home Goods,386,2,2023-12-18,2023-12-26,Credit Card,New York,Female,28
+259,C8155,P23815,Home Goods,956,4,2023-12-18,2023-12-19,PayPal,San Francisco,Male,50
+260,C9265,P66080,Electronics,986,1,2023-12-16,2023-12-17,PayPal,Seattle,Female,40
+261,C3488,P53112,Home Goods,190,4,2023-12-23,2023-12-22,Credit Card,Chicago,Female,21
+262,C6019,P53191,Home Goods,485,1,2023-12-17,2023-12-24,Credit Card,New York,Male,24
+263,C4378,P51601,Clothing,992,2,2023-12-20,2023-12-25,PayPal,Chicago,Male,64
+264,C1051,P34949,Electronics,339,2,2023-12-18,2023-12-18,Cash on Delivery,San Francisco,Female,29
+265,C6351,P21950,Clothing,811,2,2023-12-16,2023-12-21,Cash on Delivery,San Francisco,Male,42
+266,C4984,P80069,Books,30,4,2023-12-16,2023-12-17,PayPal,New York,Female,52
+267,C9754,P38039,Home Goods,698,4,2023-12-17,2023-12-18,PayPal,San Francisco,Male,44
+268,C5962,P76672,Books,896,4,2023-12-17,2023-12-18,Credit Card,San Francisco,Male,41
+269,C5886,P66486,Electronics,769,1,2023-12-15,2023-12-21,Cash on Delivery,New York,Male,54
+270,C8066,P46458,Electronics,391,1,2023-12-16,2023-12-18,PayPal,Los Angeles,Male,46
+271,C8743,P61768,Books,471,3,2023-12-18,2023-12-23,Credit Card,Chicago,Male,54
+272,C8607,P20919,Clothing,548,2,2023-12-17,2023-12-19,Cash on Delivery,San Francisco,Female,31
+273,C4369,P34062,Electronics,128,3,2023-12-23,2023-12-18,Credit Card,Los Angeles,Female,62
+274,C8752,P62167,Home Goods,281,2,2023-12-22,2023-12-18,Credit Card,Seattle,Male,27
+275,C9957,P50300,Books,215,1,2023-12-24,2023-12-26,Credit Card,San Francisco,Male,47
+276,C8759,P87115,Home Goods,144,2,2023-12-20,2023-12-25,Credit Card,New York,Female,38
+277,C8836,P70850,Home Goods,336,3,2023-12-23,2023-12-21,PayPal,Seattle,Male,38
+278,C7327,P54631,Electronics,513,2,2023-12-21,2023-12-19,Credit Card,New York,Female,44
+279,C2559,P75939,Home Goods,401,1,2023-12-18,2023-12-21,PayPal,San Francisco,Female,41
+280,C8847,P83078,Books,333,3,2023-12-19,2023-12-22,Cash on Delivery,Seattle,Female,31
+281,C7683,P39240,Home Goods,946,1,2023-12-18,2023-12-25,PayPal,Seattle,Female,61
+282,C5339,P16803,Books,636,4,2023-12-23,2023-12-26,Cash on Delivery,Los Angeles,Male,21
+283,C3149,P38417,Home Goods,537,3,2023-12-21,2023-12-17,Credit Card,New York,Male,26
+284,C6077,P93195,Books,946,1,2023-12-21,2023-12-17,Credit Card,New York,Male,43
+285,C9671,P30605,Clothing,841,3,2023-12-18,2023-12-24,Credit Card,Los Angeles,Male,53
+286,C6862,P24469,Home Goods,540,1,2023-12-17,2023-12-22,PayPal,Los Angeles,Female,34
+287,C4082,P84473,Clothing,319,4,2023-12-20,2023-12-26,Credit Card,Seattle,Female,62
+288,C8579,P19677,Home Goods,583,4,2023-12-23,2023-12-20,Credit Card,Chicago,Male,35
+289,C4026,P18751,Clothing,692,1,2023-12-22,2023-12-25,Cash on Delivery,New York,Male,59
+290,C8671,P71959,Home Goods,828,1,2023-12-18,2023-12-24,PayPal,Los Angeles,Male,28
+291,C4717,P88235,Clothing,222,3,2023-12-23,2023-12-17,PayPal,Los Angeles,Male,21
+292,C1623,P26106,Electronics,141,1,2023-12-15,2023-12-20,Credit Card,San Francisco,Male,23
+293,C8642,P40162,Home Goods,120,1,2023-12-23,2023-12-21,Credit Card,Seattle,Male,40
+294,C3874,P45235,Home Goods,781,3,2023-12-20,2023-12-25,Cash on Delivery,Los Angeles,Male,51
+295,C9705,P57492,Books,585,1,2023-12-20,2023-12-26,PayPal,Los Angeles,Male,25
+296,C8568,P63860,Clothing,826,2,2023-12-17,2023-12-25,Credit Card,Seattle,Male,60
+297,C7600,P80443,Books,205,2,2023-12-17,2023-12-17,Credit Card,Chicago,Female,60
+298,C2385,P46052,Books,807,4,2023-12-15,2023-12-18,Cash on Delivery,New York,Male,19
+299,C5073,P50437,Home Goods,43,1,2023-12-17,2023-12-22,Credit Card,San Francisco,Female,44
+300,C8965,P79718,Clothing,90,1,2023-12-20,2023-12-25,PayPal,Seattle,Male,38
+301,C9174,P13134,Electronics,429,4,2023-12-15,2023-12-22,Cash on Delivery,Los Angeles,Female,43
+302,C1023,P23749,Clothing,358,2,2023-12-23,2023-12-24,Credit Card,New York,Male,18
+303,C8941,P54866,Books,109,4,2023-12-24,2023-12-18,Cash on Delivery,Seattle,Male,63
+304,C5209,P23134,Clothing,930,3,2023-12-18,2023-12-26,Cash on Delivery,Seattle,Male,36
+305,C1490,P37865,Home Goods,151,1,2023-12-18,2023-12-18,Credit Card,New York,Male,27
+306,C6567,P51182,Home Goods,741,1,2023-12-24,2023-12-17,Credit Card,Los Angeles,Female,25
+307,C9835,P90689,Books,989,1,2023-12-18,2023-12-24,Credit Card,New York,Male,30
+308,C1213,P98574,Home Goods,371,1,2023-12-23,2023-12-23,PayPal,Los Angeles,Male,61
+309,C4411,P19682,Home Goods,33,2,2023-12-17,2023-12-25,Cash on Delivery,New York,Female,26
+310,C1751,P10048,Home Goods,74,4,2023-12-17,2023-12-22,PayPal,Seattle,Male,31
+311,C1423,P26854,Clothing,820,4,2023-12-24,2023-12-26,Credit Card,New York,Male,41
+312,C2006,P96054,Electronics,930,2,2023-12-19,2023-12-17,Cash on Delivery,Seattle,Female,64
+313,C5296,P13222,Clothing,320,4,2023-12-19,2023-12-17,Credit Card,Chicago,Female,30
+314,C1477,P25631,Home Goods,268,4,2023-12-21,2023-12-26,Credit Card,Seattle,Female,44
+315,C5113,P25839,Home Goods,749,4,2023-12-21,2023-12-25,Cash on Delivery,Los Angeles,Male,60
+316,C2404,P77381,Clothing,392,1,2023-12-24,2023-12-23,Cash on Delivery,New York,Male,28
+317,C9625,P87511,Electronics,894,1,2023-12-16,2023-12-26,PayPal,Los Angeles,Male,49
+318,C7248,P56113,Books,107,3,2023-12-17,2023-12-22,Credit Card,Chicago,Female,36
+319,C8936,P59709,Clothing,320,3,2023-12-22,2023-12-17,PayPal,Chicago,Male,21
+320,C5707,P12009,Books,894,2,2023-12-21,2023-12-20,Cash on Delivery,San Francisco,Female,47
+321,C2147,P97844,Home Goods,384,2,2023-12-20,2023-12-24,Cash on Delivery,San Francisco,Female,48
+322,C5934,P85656,Electronics,869,2,2023-12-20,2023-12-22,PayPal,New York,Male,52
+323,C8787,P22937,Books,227,1,2023-12-19,2023-12-17,Credit Card,San Francisco,Male,36
+324,C9585,P27421,Clothing,656,3,2023-12-21,2023-12-22,Credit Card,Chicago,Male,47
+325,C5118,P51260,Home Goods,611,1,2023-12-15,2023-12-18,Cash on Delivery,New York,Male,60
+326,C9381,P73200,Books,613,2,2023-12-15,2023-12-23,Credit Card,Seattle,Female,49
+327,C3423,P15576,Home Goods,825,3,2023-12-23,2023-12-25,PayPal,Seattle,Female,29
+328,C6845,P77102,Books,742,4,2023-12-22,2023-12-18,PayPal,Los Angeles,Male,49
+329,C7746,P63076,Electronics,169,2,2023-12-22,2023-12-17,Cash on Delivery,Los Angeles,Male,23
+330,C5005,P97889,Clothing,890,2,2023-12-22,2023-12-24,PayPal,Chicago,Male,60
+331,C3610,P10937,Books,272,1,2023-12-17,2023-12-17,PayPal,San Francisco,Male,48
+332,C2875,P84827,Home Goods,683,2,2023-12-19,2023-12-17,Credit Card,Los Angeles,Female,35
+333,C9839,P47915,Electronics,103,4,2023-12-15,2023-12-20,Cash on Delivery,Los Angeles,Female,50
+334,C9439,P32704,Home Goods,354,4,2023-12-19,2023-12-18,Cash on Delivery,Seattle,Female,31
+335,C3849,P60120,Home Goods,381,2,2023-12-21,2023-12-20,Cash on Delivery,Chicago,Male,46
+336,C2462,P48418,Home Goods,72,2,2023-12-17,2023-12-25,Cash on Delivery,New York,Female,21
+337,C7572,P16896,Home Goods,161,1,2023-12-22,2023-12-23,Cash on Delivery,Chicago,Male,31
+338,C9268,P22471,Home Goods,221,1,2023-12-22,2023-12-19,Cash on Delivery,Los Angeles,Male,33
+339,C8053,P18404,Books,193,4,2023-12-23,2023-12-25,PayPal,Los Angeles,Male,48
+340,C5454,P76037,Home Goods,318,2,2023-12-19,2023-12-25,Credit Card,Seattle,Male,40
+341,C8930,P68444,Clothing,782,4,2023-12-24,2023-12-23,Cash on Delivery,Los Angeles,Male,26
+342,C2676,P37649,Clothing,134,2,2023-12-18,2023-12-25,Cash on Delivery,Seattle,Female,29
+343,C1681,P75838,Electronics,379,2,2023-12-20,2023-12-18,Credit Card,Los Angeles,Female,48
+344,C8712,P74431,Clothing,960,2,2023-12-24,2023-12-24,Credit Card,New York,Male,32
+345,C9183,P84538,Clothing,540,4,2023-12-23,2023-12-19,PayPal,San Francisco,Male,56
+346,C7570,P21721,Electronics,932,2,2023-12-23,2023-12-23,PayPal,San Francisco,Male,62
+347,C3521,P97641,Clothing,486,1,2023-12-23,2023-12-23,PayPal,Chicago,Male,24
+348,C4431,P14639,Electronics,284,4,2023-12-15,2023-12-21,Credit Card,New York,Male,41
+349,C9613,P26466,Home Goods,913,2,2023-12-24,2023-12-23,Cash on Delivery,New York,Male,31
+350,C2122,P21526,Home Goods,758,1,2023-12-20,2023-12-22,Credit Card,Los Angeles,Female,64
+351,C7318,P43733,Home Goods,907,2,2023-12-20,2023-12-23,Cash on Delivery,Chicago,Male,56
+352,C8833,P35524,Home Goods,77,3,2023-12-24,2023-12-21,PayPal,Seattle,Female,41
+353,C1425,P66868,Home Goods,681,2,2023-12-21,2023-12-22,PayPal,Seattle,Female,61
+354,C6977,P96281,Books,731,3,2023-12-19,2023-12-23,Cash on Delivery,New York,Male,18
+355,C5224,P83585,Home Goods,279,1,2023-12-16,2023-12-19,PayPal,Chicago,Male,23
+356,C7356,P38559,Clothing,745,3,2023-12-23,2023-12-17,Cash on Delivery,Chicago,Male,49
+357,C5372,P88416,Electronics,280,3,2023-12-17,2023-12-19,Cash on Delivery,San Francisco,Male,46
+358,C7310,P60224,Clothing,426,1,2023-12-19,2023-12-17,Credit Card,New York,Male,18
+359,C3014,P58636,Books,107,2,2023-12-17,2023-12-25,Credit Card,Los Angeles,Male,57
+360,C5722,P89787,Home Goods,353,1,2023-12-23,2023-12-19,Credit Card,Los Angeles,Male,46
+361,C7605,P87196,Clothing,367,1,2023-12-19,2023-12-21,PayPal,Los Angeles,Male,40
+362,C6511,P20740,Electronics,31,3,2023-12-19,2023-12-22,PayPal,Chicago,Female,52
+363,C3529,P74415,Books,639,4,2023-12-19,2023-12-24,Credit Card,Los Angeles,Male,20
+364,C5510,P73625,Home Goods,927,1,2023-12-21,2023-12-18,PayPal,Los Angeles,Male,34
+365,C5202,P91914,Electronics,201,1,2023-12-24,2023-12-24,PayPal,Chicago,Female,21
+366,C3433,P74790,Books,307,2,2023-12-23,2023-12-20,Cash on Delivery,Seattle,Female,35
+367,C8130,P14778,Clothing,479,3,2023-12-24,2023-12-22,PayPal,Seattle,Female,51
+368,C8723,P37858,Home Goods,463,2,2023-12-16,2023-12-24,Credit Card,Los Angeles,Male,57
+369,C6812,P79531,Clothing,423,3,2023-12-22,2023-12-24,PayPal,Los Angeles,Female,32
+370,C1637,P85503,Clothing,683,4,2023-12-23,2023-12-18,Credit Card,New York,Male,62
+371,C6235,P32367,Electronics,875,2,2023-12-24,2023-12-21,Credit Card,New York,Male,29
+372,C3280,P42746,Books,379,3,2023-12-19,2023-12-26,Credit Card,San Francisco,Male,18
+373,C4305,P58542,Electronics,55,2,2023-12-22,2023-12-17,PayPal,New York,Female,61
+374,C7651,P57217,Books,183,4,2023-12-23,2023-12-17,PayPal,New York,Female,40
+375,C9710,P89104,Books,935,2,2023-12-24,2023-12-26,Credit Card,San Francisco,Male,46
+376,C9800,P34579,Home Goods,694,2,2023-12-17,2023-12-21,Credit Card,New York,Male,23
+377,C5525,P60105,Clothing,290,4,2023-12-20,2023-12-20,Credit Card,Chicago,Male,29
+378,C8555,P77552,Books,250,4,2023-12-21,2023-12-22,Cash on Delivery,Los Angeles,Female,29
+379,C7836,P78655,Home Goods,318,4,2023-12-16,2023-12-22,Cash on Delivery,New York,Male,28
+380,C6066,P19631,Books,242,2,2023-12-20,2023-12-26,Credit Card,Los Angeles,Male,57
+381,C2006,P72128,Home Goods,914,2,2023-12-21,2023-12-19,PayPal,New York,Male,30
+382,C4702,P60079,Books,263,1,2023-12-23,2023-12-17,Credit Card,New York,Male,53
+383,C7985,P81582,Home Goods,420,4,2023-12-24,2023-12-25,Cash on Delivery,Los Angeles,Female,50
+384,C8803,P19399,Clothing,928,3,2023-12-15,2023-12-25,Credit Card,Chicago,Female,23
+385,C7304,P88357,Clothing,602,3,2023-12-18,2023-12-20,Credit Card,San Francisco,Male,27
+386,C9788,P67826,Clothing,329,3,2023-12-23,2023-12-17,PayPal,New York,Male,26
+387,C6841,P75384,Electronics,345,3,2023-12-23,2023-12-21,PayPal,San Francisco,Female,64
+388,C5016,P72632,Electronics,260,3,2023-12-21,2023-12-21,PayPal,Chicago,Female,54
+389,C7458,P69678,Books,286,1,2023-12-16,2023-12-23,Credit Card,Seattle,Female,31
+390,C1636,P91492,Books,208,1,2023-12-23,2023-12-26,Credit Card,Los Angeles,Male,23
+391,C6410,P62980,Clothing,890,3,2023-12-24,2023-12-22,PayPal,Los Angeles,Male,25
+392,C8406,P79988,Clothing,896,1,2023-12-23,2023-12-25,Cash on Delivery,New York,Male,34
+393,C5338,P77821,Books,385,3,2023-12-24,2023-12-20,Cash on Delivery,Seattle,Male,53
+394,C3543,P76884,Electronics,549,4,2023-12-18,2023-12-18,Credit Card,Chicago,Female,47
+395,C5192,P14245,Books,918,3,2023-12-16,2023-12-22,PayPal,San Francisco,Female,58
+396,C1168,P90294,Electronics,530,1,2023-12-16,2023-12-20,PayPal,Los Angeles,Male,21
+397,C4646,P91491,Clothing,28,1,2023-12-20,2023-12-21,Credit Card,Seattle,Female,41
+398,C8227,P32179,Home Goods,282,4,2023-12-22,2023-12-24,PayPal,San Francisco,Female,22
+399,C8890,P94714,Clothing,852,1,2023-12-21,2023-12-26,PayPal,Seattle,Female,18
+400,C2328,P65253,Electronics,553,1,2023-12-15,2023-12-18,Credit Card,New York,Female,19
+401,C4517,P24107,Clothing,871,2,2023-12-19,2023-12-21,Credit Card,Chicago,Female,50
+402,C7851,P21979,Home Goods,993,3,2023-12-24,2023-12-20,Cash on Delivery,San Francisco,Male,61
+403,C7664,P27822,Books,933,2,2023-12-17,2023-12-19,Cash on Delivery,New York,Female,40
+404,C7571,P62938,Home Goods,202,4,2023-12-15,2023-12-19,Credit Card,Chicago,Female,48
+405,C6980,P13473,Clothing,361,4,2023-12-23,2023-12-26,Credit Card,New York,Female,44
+406,C9959,P61385,Home Goods,223,4,2023-12-20,2023-12-17,Cash on Delivery,Seattle,Female,21
+407,C3639,P78840,Books,833,1,2023-12-17,2023-12-17,Cash on Delivery,New York,Male,41
+408,C3094,P37644,Clothing,109,4,2023-12-16,2023-12-17,Cash on Delivery,Seattle,Male,55
+409,C4349,P95604,Home Goods,645,1,2023-12-20,2023-12-22,Cash on Delivery,Seattle,Male,19
+410,C7572,P28485,Electronics,611,2,2023-12-24,2023-12-21,Cash on Delivery,Seattle,Male,42
+411,C9713,P31394,Clothing,878,4,2023-12-18,2023-12-26,Credit Card,Chicago,Male,26
+412,C5980,P56124,Books,517,1,2023-12-24,2023-12-20,PayPal,San Francisco,Female,24
+413,C6269,P82157,Home Goods,905,2,2023-12-17,2023-12-20,Credit Card,Los Angeles,Female,21
+414,C3802,P61983,Clothing,137,3,2023-12-24,2023-12-19,PayPal,Seattle,Male,45
+415,C4967,P61119,Home Goods,628,4,2023-12-20,2023-12-26,PayPal,Seattle,Female,43
+416,C5072,P79088,Home Goods,174,2,2023-12-23,2023-12-17,Credit Card,San Francisco,Female,41
+417,C4977,P81866,Electronics,960,4,2023-12-18,2023-12-26,PayPal,Los Angeles,Female,59
+418,C2410,P31764,Clothing,795,3,2023-12-17,2023-12-20,PayPal,San Francisco,Male,64
+419,C8479,P58416,Home Goods,793,1,2023-12-16,2023-12-23,Cash on Delivery,Chicago,Female,33
+420,C4047,P53929,Home Goods,971,4,2023-12-24,2023-12-17,Credit Card,Chicago,Male,24
+421,C2315,P65735,Electronics,477,2,2023-12-18,2023-12-18,Credit Card,San Francisco,Female,24
+422,C1294,P12980,Books,134,4,2023-12-22,2023-12-17,PayPal,New York,Male,32
+423,C3571,P44734,Home Goods,705,1,2023-12-17,2023-12-22,Cash on Delivery,Los Angeles,Male,36
+424,C4732,P75301,Clothing,897,3,2023-12-21,2023-12-25,PayPal,New York,Female,48
+425,C6694,P54667,Electronics,559,4,2023-12-18,2023-12-17,Credit Card,Seattle,Female,52
+426,C2946,P80574,Clothing,20,1,2023-12-16,2023-12-25,Cash on Delivery,Chicago,Female,35
+427,C3829,P37437,Clothing,264,1,2023-12-23,2023-12-25,Cash on Delivery,Seattle,Female,52
+428,C2775,P67565,Home Goods,113,3,2023-12-15,2023-12-18,PayPal,San Francisco,Female,52
+429,C5715,P56888,Home Goods,515,4,2023-12-23,2023-12-20,Cash on Delivery,Seattle,Male,53
+430,C9890,P45412,Books,276,3,2023-12-17,2023-12-20,Cash on Delivery,New York,Male,52
+431,C9120,P73742,Books,811,4,2023-12-22,2023-12-21,PayPal,Seattle,Female,62
+432,C2071,P86026,Home Goods,616,2,2023-12-19,2023-12-26,Credit Card,Los Angeles,Male,51
+433,C1250,P22468,Electronics,310,3,2023-12-24,2023-12-20,Credit Card,Seattle,Female,29
+434,C5053,P52555,Electronics,583,3,2023-12-23,2023-12-26,Credit Card,New York,Male,29
+435,C6895,P81507,Electronics,149,2,2023-12-19,2023-12-21,PayPal,Los Angeles,Male,31
+436,C9424,P30505,Books,396,4,2023-12-23,2023-12-17,Credit Card,Los Angeles,Male,22
+437,C9078,P94458,Clothing,789,2,2023-12-18,2023-12-19,Cash on Delivery,Chicago,Male,33
+438,C1156,P57561,Home Goods,711,1,2023-12-23,2023-12-18,PayPal,Seattle,Female,64
+439,C6827,P14666,Clothing,609,3,2023-12-15,2023-12-26,Credit Card,San Francisco,Male,45
+440,C3708,P38478,Home Goods,663,2,2023-12-18,2023-12-22,PayPal,Chicago,Male,55
+441,C3643,P35053,Electronics,296,1,2023-12-19,2023-12-23,Cash on Delivery,San Francisco,Female,47
+442,C9152,P68237,Books,215,1,2023-12-18,2023-12-23,PayPal,New York,Female,29
+443,C8922,P50615,Electronics,330,2,2023-12-22,2023-12-21,Credit Card,Seattle,Male,29
+444,C5225,P25351,Clothing,83,4,2023-12-19,2023-12-24,Credit Card,Seattle,Female,53
+445,C8817,P60959,Clothing,663,2,2023-12-16,2023-12-17,Cash on Delivery,Chicago,Female,63
+446,C4734,P11860,Electronics,520,4,2023-12-21,2023-12-23,Credit Card,New York,Male,29
+447,C5571,P10661,Books,965,4,2023-12-24,2023-12-26,PayPal,San Francisco,Male,62
+448,C6641,P17782,Electronics,455,3,2023-12-15,2023-12-22,PayPal,Seattle,Male,49
+449,C6399,P24228,Clothing,590,2,2023-12-21,2023-12-19,PayPal,Los Angeles,Female,63
+450,C3370,P12743,Books,874,1,2023-12-21,2023-12-22,Credit Card,San Francisco,Female,48
+451,C6069,P73184,Books,941,3,2023-12-15,2023-12-21,Credit Card,Chicago,Female,63
+452,C7710,P78678,Books,770,2,2023-12-21,2023-12-21,Credit Card,New York,Male,55
+453,C3993,P75159,Clothing,409,1,2023-12-24,2023-12-17,Credit Card,Los Angeles,Female,59
+454,C8601,P62298,Electronics,596,3,2023-12-23,2023-12-24,Cash on Delivery,New York,Male,32
+455,C1338,P97926,Books,154,3,2023-12-24,2023-12-18,Cash on Delivery,Los Angeles,Female,27
+456,C7201,P47863,Home Goods,585,4,2023-12-22,2023-12-22,Credit Card,Seattle,Male,44
+457,C1912,P80586,Home Goods,213,2,2023-12-15,2023-12-25,Credit Card,Chicago,Male,33
+458,C5133,P16688,Electronics,441,1,2023-12-21,2023-12-26,Cash on Delivery,San Francisco,Male,55
+459,C1404,P54517,Home Goods,487,1,2023-12-24,2023-12-20,Credit Card,Los Angeles,Female,31
+460,C5931,P18387,Electronics,145,2,2023-12-21,2023-12-25,Cash on Delivery,San Francisco,Male,56
+461,C2925,P78903,Home Goods,965,4,2023-12-15,2023-12-26,Cash on Delivery,San Francisco,Male,31
+462,C2966,P60454,Clothing,608,1,2023-12-24,2023-12-26,Cash on Delivery,Chicago,Female,44
+463,C2673,P99711,Home Goods,473,1,2023-12-17,2023-12-18,Credit Card,Los Angeles,Female,47
+464,C6710,P94971,Clothing,123,3,2023-12-24,2023-12-24,Cash on Delivery,Los Angeles,Male,20
+465,C7748,P32294,Electronics,567,2,2023-12-19,2023-12-24,PayPal,New York,Female,53
+466,C7017,P46076,Home Goods,863,1,2023-12-24,2023-12-25,Credit Card,New York,Male,31
+467,C9785,P34631,Books,763,2,2023-12-15,2023-12-20,PayPal,Seattle,Male,57
+468,C8551,P87525,Books,439,3,2023-12-16,2023-12-21,Cash on Delivery,Los Angeles,Male,54
+469,C5273,P96052,Books,63,3,2023-12-20,2023-12-18,PayPal,New York,Female,27
+470,C2398,P14750,Electronics,191,1,2023-12-19,2023-12-18,Credit Card,San Francisco,Male,22
+471,C3448,P83826,Electronics,647,4,2023-12-24,2023-12-18,PayPal,Chicago,Male,38
+472,C1130,P79086,Electronics,215,4,2023-12-16,2023-12-26,Credit Card,Chicago,Female,19
+473,C8627,P50769,Home Goods,677,3,2023-12-17,2023-12-20,PayPal,New York,Male,54
+474,C5857,P92959,Electronics,435,1,2023-12-19,2023-12-22,Credit Card,New York,Female,37
+475,C3721,P39145,Clothing,419,4,2023-12-24,2023-12-18,Cash on Delivery,San Francisco,Male,27
+476,C2911,P65359,Electronics,939,2,2023-12-21,2023-12-22,PayPal,Los Angeles,Female,52
+477,C9920,P47729,Clothing,142,1,2023-12-21,2023-12-18,Cash on Delivery,New York,Female,35
+478,C3004,P53630,Electronics,934,3,2023-12-18,2023-12-17,Credit Card,Los Angeles,Male,18
+479,C2738,P90866,Home Goods,158,1,2023-12-24,2023-12-19,Credit Card,Seattle,Male,44
+480,C4673,P33179,Electronics,709,1,2023-12-16,2023-12-25,Cash on Delivery,Chicago,Female,25
+481,C2441,P49054,Home Goods,840,4,2023-12-24,2023-12-21,Cash on Delivery,Los Angeles,Male,23
+482,C5422,P18370,Books,569,1,2023-12-21,2023-12-23,Cash on Delivery,Los Angeles,Female,28
+483,C6197,P17918,Electronics,839,2,2023-12-15,2023-12-20,PayPal,Seattle,Male,42
+484,C9942,P90011,Home Goods,511,4,2023-12-19,2023-12-22,PayPal,Seattle,Male,30
+485,C9571,P67676,Clothing,254,2,2023-12-23,2023-12-25,Cash on Delivery,Chicago,Male,18
+486,C1231,P81897,Electronics,165,1,2023-12-23,2023-12-22,Cash on Delivery,San Francisco,Female,58
+487,C2577,P10070,Books,676,3,2023-12-21,2023-12-18,Cash on Delivery,Chicago,Female,24
+488,C6766,P39822,Books,251,3,2023-12-20,2023-12-21,Cash on Delivery,Chicago,Male,40
+489,C3998,P72788,Books,133,3,2023-12-23,2023-12-24,Credit Card,Chicago,Female,63
+490,C5264,P96466,Home Goods,55,4,2023-12-21,2023-12-17,PayPal,Los Angeles,Female,60
+491,C7387,P31750,Electronics,13,1,2023-12-19,2023-12-24,Credit Card,San Francisco,Male,49
+492,C4901,P82695,Home Goods,318,4,2023-12-15,2023-12-20,Cash on Delivery,Chicago,Female,62
+493,C8379,P68228,Clothing,133,4,2023-12-23,2023-12-25,PayPal,Seattle,Female,34
+494,C7279,P73753,Books,867,3,2023-12-20,2023-12-24,PayPal,New York,Male,21
+495,C3085,P93286,Electronics,712,1,2023-12-24,2023-12-18,Cash on Delivery,Los Angeles,Male,53
+496,C2767,P21824,Home Goods,323,1,2023-12-19,2023-12-26,Credit Card,New York,Male,57
+497,C8794,P87304,Home Goods,782,4,2023-12-18,2023-12-26,PayPal,Chicago,Male,22
+498,C9778,P15787,Clothing,11,2,2023-12-22,2023-12-18,PayPal,Seattle,Female,58
+499,C7076,P98961,Electronics,819,1,2023-12-20,2023-12-18,Credit Card,Los Angeles,Male,54
+500,C4260,P12372,Clothing,598,1,2023-12-22,2023-12-18,Cash on Delivery,New York,Female,44
+501,C1085,P18789,Clothing,883,1,2023-12-18,2023-12-23,PayPal,Chicago,Male,40
+502,C1942,P73296,Electronics,882,3,2023-12-16,2023-12-18,Credit Card,Los Angeles,Female,54
+503,C5993,P34299,Clothing,80,3,2023-12-17,2023-12-23,Credit Card,New York,Male,38
+504,C9815,P67612,Home Goods,674,3,2023-12-21,2023-12-20,Credit Card,Chicago,Male,25
+505,C9279,P73826,Electronics,348,3,2023-12-18,2023-12-20,PayPal,San Francisco,Female,19
+506,C2328,P81190,Electronics,234,2,2023-12-15,2023-12-23,Cash on Delivery,Chicago,Female,57
+507,C3797,P36512,Clothing,435,4,2023-12-23,2023-12-19,Cash on Delivery,New York,Female,56
+508,C2777,P16446,Books,781,2,2023-12-19,2023-12-25,PayPal,Los Angeles,Male,63
+509,C7685,P61026,Books,360,1,2023-12-16,2023-12-26,Cash on Delivery,New York,Male,46
+510,C5796,P98242,Clothing,692,1,2023-12-21,2023-12-24,Cash on Delivery,New York,Female,51
+511,C3283,P51635,Home Goods,15,4,2023-12-16,2023-12-18,Cash on Delivery,Chicago,Male,34
+512,C2563,P91526,Clothing,153,4,2023-12-24,2023-12-24,Credit Card,New York,Female,18
+513,C5649,P10603,Home Goods,773,4,2023-12-23,2023-12-20,PayPal,San Francisco,Male,45
+514,C3121,P25783,Electronics,820,4,2023-12-22,2023-12-24,Credit Card,San Francisco,Female,35
+515,C7031,P86309,Books,388,4,2023-12-20,2023-12-25,Cash on Delivery,Los Angeles,Male,56
+516,C6594,P80718,Electronics,581,4,2023-12-23,2023-12-19,Credit Card,Seattle,Male,51
+517,C3094,P16472,Clothing,817,1,2023-12-18,2023-12-23,PayPal,Los Angeles,Male,33
+518,C3047,P46743,Books,935,3,2023-12-24,2023-12-20,Credit Card,Chicago,Male,36
+519,C5937,P50074,Clothing,89,1,2023-12-19,2023-12-19,Credit Card,Seattle,Female,60
+520,C7248,P37756,Clothing,612,1,2023-12-21,2023-12-21,PayPal,Chicago,Male,42
+521,C9635,P57529,Books,834,1,2023-12-18,2023-12-18,PayPal,Chicago,Male,50
+522,C8581,P59633,Electronics,825,1,2023-12-22,2023-12-26,PayPal,Chicago,Female,38
+523,C4958,P58117,Home Goods,443,2,2023-12-19,2023-12-21,Cash on Delivery,San Francisco,Female,19
+524,C9202,P89231,Home Goods,747,1,2023-12-24,2023-12-19,Credit Card,Los Angeles,Male,23
+525,C3813,P94144,Books,138,1,2023-12-19,2023-12-24,Cash on Delivery,Seattle,Male,55
+526,C8771,P90491,Books,329,2,2023-12-17,2023-12-26,Cash on Delivery,Seattle,Female,42
+527,C9341,P75599,Home Goods,527,1,2023-12-21,2023-12-20,Credit Card,Chicago,Female,44
+528,C6878,P47512,Electronics,686,2,2023-12-20,2023-12-23,PayPal,Seattle,Female,52
+529,C5687,P22506,Electronics,630,4,2023-12-18,2023-12-24,Credit Card,Seattle,Male,52
+530,C9253,P29961,Books,642,2,2023-12-20,2023-12-24,Cash on Delivery,New York,Male,44
+531,C3693,P37233,Books,464,1,2023-12-18,2023-12-21,PayPal,Chicago,Female,50
+532,C7826,P92631,Clothing,210,4,2023-12-20,2023-12-19,Cash on Delivery,New York,Female,51
+533,C4490,P97023,Electronics,460,2,2023-12-19,2023-12-23,Cash on Delivery,Chicago,Female,25
+534,C4336,P28631,Electronics,955,4,2023-12-19,2023-12-22,Cash on Delivery,Los Angeles,Male,41
+535,C9851,P78669,Home Goods,648,2,2023-12-17,2023-12-22,PayPal,Seattle,Male,54
+536,C3718,P43119,Home Goods,522,3,2023-12-24,2023-12-21,PayPal,Los Angeles,Male,45
+537,C9733,P61408,Home Goods,857,1,2023-12-24,2023-12-22,Cash on Delivery,Seattle,Male,57
+538,C3850,P48476,Books,599,4,2023-12-15,2023-12-17,PayPal,San Francisco,Male,48
+539,C2499,P98777,Clothing,313,4,2023-12-16,2023-12-23,Credit Card,San Francisco,Male,61
+540,C6966,P45441,Books,430,2,2023-12-18,2023-12-20,Credit Card,San Francisco,Female,30
+541,C7993,P23868,Books,313,1,2023-12-23,2023-12-25,PayPal,Los Angeles,Female,33
+542,C2280,P61584,Home Goods,115,1,2023-12-16,2023-12-24,Credit Card,Seattle,Male,63
+543,C4182,P77444,Books,311,2,2023-12-18,2023-12-19,PayPal,San Francisco,Male,61
+544,C5898,P58365,Clothing,403,4,2023-12-17,2023-12-20,PayPal,Chicago,Female,46
+545,C2027,P84723,Home Goods,282,1,2023-12-23,2023-12-17,PayPal,Seattle,Male,31
+546,C9677,P64467,Electronics,785,3,2023-12-24,2023-12-22,Cash on Delivery,San Francisco,Male,18
+547,C1100,P65468,Clothing,762,3,2023-12-16,2023-12-23,PayPal,San Francisco,Male,18
+548,C6139,P69800,Books,840,2,2023-12-21,2023-12-18,Credit Card,New York,Male,36
+549,C4273,P75375,Books,810,1,2023-12-18,2023-12-26,Credit Card,Chicago,Male,41
+550,C4281,P45575,Books,44,3,2023-12-24,2023-12-22,Cash on Delivery,Chicago,Male,31
+551,C7592,P40393,Electronics,82,3,2023-12-17,2023-12-20,Cash on Delivery,New York,Female,43
+552,C6465,P71291,Clothing,239,3,2023-12-17,2023-12-18,Credit Card,San Francisco,Female,59
+553,C2676,P35649,Home Goods,392,3,2023-12-16,2023-12-26,Credit Card,Chicago,Male,36
+554,C7074,P57076,Clothing,322,2,2023-12-16,2023-12-23,PayPal,New York,Female,44
+555,C3588,P52620,Electronics,152,3,2023-12-20,2023-12-18,Cash on Delivery,Seattle,Female,33
+556,C9334,P75236,Electronics,739,3,2023-12-15,2023-12-18,PayPal,Seattle,Male,43
+557,C5330,P62831,Clothing,429,4,2023-12-20,2023-12-17,Cash on Delivery,Los Angeles,Male,46
+558,C8003,P20535,Books,156,3,2023-12-24,2023-12-18,PayPal,Chicago,Female,20
+559,C5019,P10562,Electronics,898,4,2023-12-16,2023-12-20,Credit Card,Chicago,Male,55
+560,C4645,P49525,Clothing,846,2,2023-12-22,2023-12-25,PayPal,Chicago,Female,64
+561,C3912,P92295,Home Goods,889,3,2023-12-23,2023-12-20,PayPal,Seattle,Female,60
+562,C9785,P17338,Books,902,3,2023-12-22,2023-12-23,PayPal,New York,Female,63
+563,C1529,P80283,Clothing,201,2,2023-12-19,2023-12-22,PayPal,Los Angeles,Female,20
+564,C5990,P91172,Clothing,351,4,2023-12-22,2023-12-22,PayPal,Los Angeles,Male,37
+565,C7111,P44036,Electronics,576,2,2023-12-21,2023-12-18,PayPal,Chicago,Male,18
+566,C9954,P55328,Electronics,401,3,2023-12-22,2023-12-26,Credit Card,New York,Female,39
+567,C5397,P64615,Electronics,551,1,2023-12-21,2023-12-19,PayPal,Seattle,Female,22
+568,C9642,P72817,Books,950,2,2023-12-21,2023-12-17,Credit Card,Los Angeles,Female,36
+569,C4563,P44648,Electronics,836,4,2023-12-20,2023-12-20,PayPal,San Francisco,Male,23
+570,C9964,P98247,Books,247,1,2023-12-15,2023-12-26,PayPal,San Francisco,Female,62
+571,C2070,P27721,Home Goods,354,3,2023-12-16,2023-12-20,PayPal,Seattle,Male,46
+572,C8807,P89836,Electronics,962,4,2023-12-23,2023-12-21,PayPal,Seattle,Female,39
+573,C2957,P16423,Home Goods,620,1,2023-12-24,2023-12-18,Cash on Delivery,Los Angeles,Female,43
+574,C3852,P67927,Home Goods,609,1,2023-12-18,2023-12-26,Cash on Delivery,Seattle,Female,50
+575,C9353,P35163,Clothing,988,4,2023-12-24,2023-12-18,Credit Card,Seattle,Male,42
+576,C6904,P13605,Home Goods,414,3,2023-12-19,2023-12-19,Cash on Delivery,Chicago,Female,24
+577,C2600,P58389,Books,975,1,2023-12-23,2023-12-22,Cash on Delivery,Seattle,Male,36
+578,C4200,P71797,Home Goods,677,4,2023-12-18,2023-12-23,Cash on Delivery,Seattle,Male,41
+579,C5697,P35186,Electronics,155,2,2023-12-17,2023-12-26,Credit Card,Los Angeles,Male,37
+580,C4905,P58300,Home Goods,828,2,2023-12-19,2023-12-23,Credit Card,San Francisco,Male,35
+581,C8838,P88037,Electronics,926,3,2023-12-16,2023-12-18,Credit Card,San Francisco,Female,58
+582,C9809,P85374,Electronics,908,2,2023-12-20,2023-12-23,Cash on Delivery,New York,Female,26
+583,C2451,P20268,Home Goods,798,1,2023-12-21,2023-12-24,Cash on Delivery,Los Angeles,Male,52
+584,C6995,P39145,Electronics,756,1,2023-12-24,2023-12-21,PayPal,Chicago,Female,41
+585,C6372,P79950,Books,74,1,2023-12-20,2023-12-24,Credit Card,Seattle,Female,60
+586,C3325,P23087,Books,284,2,2023-12-23,2023-12-19,Credit Card,Chicago,Male,29
+587,C7164,P92917,Clothing,842,2,2023-12-24,2023-12-24,PayPal,San Francisco,Male,56
+588,C2750,P91994,Electronics,208,2,2023-12-23,2023-12-24,Cash on Delivery,Seattle,Female,45
+589,C7100,P31949,Books,650,3,2023-12-16,2023-12-24,Cash on Delivery,San Francisco,Female,25
+590,C9481,P18878,Clothing,294,4,2023-12-19,2023-12-18,PayPal,Chicago,Female,61
+591,C7513,P86300,Clothing,202,3,2023-12-21,2023-12-23,Credit Card,Los Angeles,Female,24
+592,C2117,P85913,Electronics,790,4,2023-12-20,2023-12-23,PayPal,San Francisco,Male,32
+593,C3410,P45513,Books,701,4,2023-12-21,2023-12-20,Credit Card,San Francisco,Female,24
+594,C8520,P16001,Clothing,653,2,2023-12-16,2023-12-23,Credit Card,Los Angeles,Male,52
+595,C8193,P57805,Home Goods,773,2,2023-12-17,2023-12-18,Credit Card,Los Angeles,Male,47
+596,C9608,P44697,Home Goods,516,4,2023-12-18,2023-12-21,PayPal,New York,Female,60
+597,C1577,P62722,Clothing,304,4,2023-12-24,2023-12-22,PayPal,Seattle,Male,44
+598,C6638,P81038,Books,860,2,2023-12-19,2023-12-26,Cash on Delivery,Los Angeles,Female,37
+599,C9424,P51653,Books,84,4,2023-12-21,2023-12-26,Cash on Delivery,Los Angeles,Male,26
+600,C3588,P38511,Books,282,1,2023-12-15,2023-12-21,PayPal,Chicago,Female,52
+601,C5187,P21702,Electronics,22,1,2023-12-24,2023-12-18,Cash on Delivery,San Francisco,Female,37
+602,C6506,P94659,Home Goods,88,2,2023-12-15,2023-12-23,Cash on Delivery,Los Angeles,Female,24
+603,C6408,P62823,Home Goods,246,1,2023-12-22,2023-12-24,PayPal,Seattle,Male,31
+604,C4610,P18363,Clothing,732,1,2023-12-23,2023-12-26,PayPal,Los Angeles,Female,55
+605,C1685,P37531,Home Goods,484,4,2023-12-22,2023-12-26,PayPal,Chicago,Female,43
+606,C3428,P61507,Home Goods,567,3,2023-12-22,2023-12-23,Credit Card,San Francisco,Female,43
+607,C4610,P97412,Clothing,183,1,2023-12-16,2023-12-19,Cash on Delivery,Seattle,Male,53
+608,C9057,P24857,Electronics,325,3,2023-12-19,2023-12-18,Credit Card,Seattle,Male,31
+609,C5790,P74862,Clothing,414,2,2023-12-18,2023-12-25,Cash on Delivery,San Francisco,Female,32
+610,C3822,P21148,Home Goods,557,2,2023-12-22,2023-12-21,PayPal,New York,Male,61
+611,C3320,P12301,Home Goods,865,3,2023-12-16,2023-12-20,Cash on Delivery,Seattle,Female,18
+612,C1475,P29913,Clothing,206,3,2023-12-18,2023-12-17,PayPal,New York,Female,28
+613,C9476,P99471,Home Goods,290,3,2023-12-16,2023-12-18,PayPal,Los Angeles,Male,61
+614,C7591,P69075,Electronics,813,3,2023-12-22,2023-12-25,PayPal,Chicago,Male,37
+615,C9709,P51511,Clothing,696,1,2023-12-19,2023-12-21,Credit Card,Los Angeles,Male,45
+616,C8614,P52962,Home Goods,589,4,2023-12-16,2023-12-25,PayPal,Chicago,Male,19
+617,C2042,P97073,Home Goods,845,3,2023-12-24,2023-12-22,PayPal,New York,Female,40
+618,C4747,P37140,Home Goods,259,3,2023-12-22,2023-12-19,Credit Card,San Francisco,Male,21
+619,C6681,P31736,Home Goods,631,4,2023-12-19,2023-12-20,Cash on Delivery,Chicago,Female,49
+620,C4269,P10170,Clothing,436,1,2023-12-15,2023-12-21,Credit Card,San Francisco,Male,56
+621,C2244,P26297,Books,620,2,2023-12-21,2023-12-23,PayPal,New York,Male,18
+622,C5983,P56527,Home Goods,230,2,2023-12-22,2023-12-18,Cash on Delivery,San Francisco,Male,34
+623,C6116,P55141,Books,967,1,2023-12-16,2023-12-24,PayPal,New York,Female,31
+624,C2404,P22888,Books,907,2,2023-12-22,2023-12-22,Cash on Delivery,Seattle,Male,23
+625,C7626,P75749,Clothing,793,4,2023-12-18,2023-12-26,Credit Card,Seattle,Male,40
+626,C6102,P83479,Clothing,481,1,2023-12-24,2023-12-17,PayPal,New York,Male,33
+627,C3092,P63286,Electronics,437,4,2023-12-21,2023-12-25,Credit Card,New York,Male,64
+628,C1459,P58373,Books,424,4,2023-12-16,2023-12-22,PayPal,San Francisco,Female,36
+629,C2115,P81534,Clothing,581,3,2023-12-24,2023-12-20,Cash on Delivery,Los Angeles,Male,47
+630,C9888,P81980,Electronics,526,1,2023-12-21,2023-12-26,Cash on Delivery,New York,Female,55
+631,C9480,P93621,Books,433,2,2023-12-20,2023-12-17,Cash on Delivery,Chicago,Male,33
+632,C3955,P14660,Home Goods,434,3,2023-12-18,2023-12-21,PayPal,San Francisco,Male,33
+633,C3745,P69593,Electronics,900,4,2023-12-17,2023-12-23,Credit Card,Chicago,Male,62
+634,C1084,P55109,Electronics,395,3,2023-12-17,2023-12-19,Credit Card,Los Angeles,Male,24
+635,C8059,P88940,Books,353,3,2023-12-24,2023-12-17,PayPal,Seattle,Female,19
+636,C2226,P43512,Clothing,868,4,2023-12-15,2023-12-18,PayPal,Chicago,Female,24
+637,C6496,P25550,Clothing,352,4,2023-12-23,2023-12-22,Cash on Delivery,Seattle,Male,32
+638,C7516,P36839,Books,262,4,2023-12-18,2023-12-20,Credit Card,Seattle,Male,59
+639,C1375,P82192,Clothing,118,4,2023-12-16,2023-12-22,Credit Card,New York,Female,48
+640,C5000,P93348,Home Goods,232,3,2023-12-17,2023-12-21,Cash on Delivery,Los Angeles,Female,58
+641,C8395,P99935,Clothing,535,2,2023-12-24,2023-12-21,Credit Card,New York,Male,47
+642,C5182,P70818,Home Goods,822,4,2023-12-24,2023-12-18,Credit Card,San Francisco,Female,40
+643,C9681,P29206,Books,510,2,2023-12-20,2023-12-23,Credit Card,San Francisco,Female,55
+644,C8689,P63863,Electronics,69,2,2023-12-21,2023-12-21,PayPal,New York,Female,42
+645,C8962,P78501,Clothing,720,3,2023-12-15,2023-12-18,Credit Card,San Francisco,Female,62
+646,C8869,P83454,Electronics,769,1,2023-12-22,2023-12-24,PayPal,Chicago,Male,40
+647,C7039,P15493,Electronics,833,2,2023-12-15,2023-12-20,PayPal,Chicago,Female,21
+648,C1461,P31501,Clothing,595,1,2023-12-19,2023-12-23,PayPal,Los Angeles,Female,32
+649,C9225,P29862,Home Goods,978,4,2023-12-16,2023-12-23,PayPal,New York,Male,62
+650,C9298,P90864,Books,909,3,2023-12-20,2023-12-20,Credit Card,New York,Male,34
+651,C4266,P37573,Clothing,370,2,2023-12-23,2023-12-24,PayPal,Chicago,Male,55
+652,C4236,P48404,Books,20,3,2023-12-15,2023-12-20,PayPal,San Francisco,Male,23
+653,C2191,P62037,Home Goods,555,2,2023-12-15,2023-12-19,Cash on Delivery,New York,Female,42
+654,C2187,P48512,Clothing,191,4,2023-12-15,2023-12-20,Cash on Delivery,Seattle,Male,57
+655,C9250,P97910,Books,570,4,2023-12-16,2023-12-24,Cash on Delivery,New York,Male,54
+656,C5109,P33088,Electronics,295,4,2023-12-15,2023-12-25,Cash on Delivery,Chicago,Female,43
+657,C2617,P65852,Books,800,2,2023-12-19,2023-12-23,Credit Card,San Francisco,Female,18
+658,C3084,P31217,Electronics,754,1,2023-12-19,2023-12-22,Credit Card,Chicago,Male,32
+659,C6615,P64941,Home Goods,186,4,2023-12-19,2023-12-20,Cash on Delivery,Seattle,Male,63
+660,C9118,P42421,Electronics,548,2,2023-12-24,2023-12-17,PayPal,Los Angeles,Female,49
+661,C2324,P60778,Home Goods,982,1,2023-12-18,2023-12-25,Credit Card,Chicago,Male,46
+662,C2540,P36819,Electronics,273,4,2023-12-17,2023-12-17,Cash on Delivery,Chicago,Male,58
+663,C2247,P84638,Clothing,397,1,2023-12-17,2023-12-18,Credit Card,Chicago,Female,57
+664,C7394,P82093,Home Goods,857,1,2023-12-17,2023-12-20,PayPal,San Francisco,Female,39
+665,C3466,P61356,Home Goods,421,3,2023-12-16,2023-12-26,PayPal,Seattle,Male,51
+666,C4867,P58146,Books,54,4,2023-12-19,2023-12-21,PayPal,Chicago,Female,40
+667,C7688,P64150,Books,849,3,2023-12-22,2023-12-23,Credit Card,New York,Male,19
+668,C8392,P49816,Home Goods,435,4,2023-12-22,2023-12-19,PayPal,Los Angeles,Male,27
+669,C9709,P20068,Home Goods,901,2,2023-12-17,2023-12-23,PayPal,Chicago,Male,22
+670,C8258,P93692,Home Goods,13,4,2023-12-17,2023-12-19,Credit Card,Los Angeles,Male,32
+671,C8826,P92179,Clothing,314,4,2023-12-22,2023-12-20,Cash on Delivery,New York,Male,46
+672,C3174,P82373,Home Goods,440,3,2023-12-24,2023-12-19,Credit Card,New York,Female,44
+673,C6903,P31298,Electronics,651,4,2023-12-20,2023-12-21,Credit Card,Seattle,Female,45
+674,C7007,P95184,Books,615,1,2023-12-24,2023-12-25,Credit Card,Los Angeles,Male,23
+675,C8374,P33792,Home Goods,539,4,2023-12-17,2023-12-18,Credit Card,Chicago,Male,39
+676,C4696,P60192,Clothing,171,4,2023-12-22,2023-12-25,Cash on Delivery,Los Angeles,Female,35
+677,C1772,P56372,Books,905,4,2023-12-21,2023-12-17,Cash on Delivery,San Francisco,Male,22
+678,C1278,P54920,Home Goods,364,3,2023-12-21,2023-12-22,Credit Card,Seattle,Female,61
+679,C1601,P53430,Clothing,661,3,2023-12-19,2023-12-21,PayPal,Chicago,Male,32
+680,C6900,P28864,Electronics,165,4,2023-12-23,2023-12-19,PayPal,New York,Male,58
+681,C7463,P26568,Electronics,83,1,2023-12-21,2023-12-26,Credit Card,New York,Male,37
+682,C3948,P13713,Electronics,134,4,2023-12-18,2023-12-18,Credit Card,Los Angeles,Female,49
+683,C7390,P21560,Books,353,1,2023-12-24,2023-12-19,PayPal,San Francisco,Female,46
+684,C2913,P64276,Home Goods,236,3,2023-12-17,2023-12-22,Cash on Delivery,Seattle,Female,27
+685,C9686,P39064,Home Goods,640,1,2023-12-23,2023-12-24,PayPal,Los Angeles,Male,37
+686,C5665,P20143,Clothing,969,2,2023-12-20,2023-12-26,Credit Card,Chicago,Male,56
+687,C4348,P72115,Clothing,119,2,2023-12-21,2023-12-22,Credit Card,Chicago,Male,30
+688,C7289,P84514,Electronics,578,3,2023-12-17,2023-12-22,Credit Card,Chicago,Female,45
+689,C8236,P94949,Home Goods,540,2,2023-12-24,2023-12-21,PayPal,New York,Female,29
+690,C9458,P81141,Home Goods,236,2,2023-12-15,2023-12-19,PayPal,San Francisco,Female,25
+691,C2614,P68250,Clothing,791,4,2023-12-24,2023-12-23,Cash on Delivery,San Francisco,Male,46
+692,C6691,P89923,Electronics,162,1,2023-12-20,2023-12-25,Cash on Delivery,Los Angeles,Male,29
+693,C9423,P62878,Electronics,99,1,2023-12-19,2023-12-17,Cash on Delivery,Chicago,Male,61
+694,C9166,P53478,Electronics,910,3,2023-12-22,2023-12-20,PayPal,Chicago,Male,22
+695,C4258,P31407,Books,747,3,2023-12-16,2023-12-22,PayPal,Chicago,Male,64
+696,C7686,P95248,Home Goods,946,2,2023-12-19,2023-12-20,Cash on Delivery,Seattle,Female,28
+697,C6442,P83186,Electronics,383,4,2023-12-20,2023-12-26,Cash on Delivery,Seattle,Male,41
+698,C1173,P51809,Books,832,4,2023-12-19,2023-12-20,PayPal,Chicago,Female,39
+699,C9529,P49675,Clothing,105,3,2023-12-22,2023-12-21,Credit Card,Chicago,Male,49
+700,C9926,P33418,Clothing,271,3,2023-12-18,2023-12-23,PayPal,Chicago,Female,47
+701,C1574,P43883,Clothing,442,2,2023-12-21,2023-12-20,Cash on Delivery,San Francisco,Male,30
+702,C8783,P96451,Books,926,3,2023-12-19,2023-12-25,PayPal,Los Angeles,Female,40
+703,C6988,P13091,Books,713,1,2023-12-17,2023-12-21,Credit Card,Seattle,Male,46
+704,C7173,P40640,Electronics,288,1,2023-12-19,2023-12-21,PayPal,New York,Male,46
+705,C4961,P25026,Books,138,3,2023-12-19,2023-12-18,PayPal,New York,Female,38
+706,C3032,P24482,Electronics,219,2,2023-12-15,2023-12-19,Credit Card,Los Angeles,Female,33
+707,C1944,P54686,Clothing,228,4,2023-12-19,2023-12-25,Cash on Delivery,Seattle,Female,43
+708,C9095,P77458,Electronics,979,4,2023-12-19,2023-12-22,Cash on Delivery,Seattle,Male,30
+709,C9367,P26773,Clothing,56,3,2023-12-15,2023-12-26,PayPal,San Francisco,Female,53
+710,C3468,P47288,Electronics,354,3,2023-12-22,2023-12-21,PayPal,San Francisco,Female,30
+711,C2034,P59746,Home Goods,613,4,2023-12-16,2023-12-23,Credit Card,Los Angeles,Male,61
+712,C5849,P34249,Electronics,344,4,2023-12-22,2023-12-22,Cash on Delivery,Chicago,Male,40
+713,C7956,P94804,Electronics,848,3,2023-12-19,2023-12-20,Credit Card,Chicago,Male,24
+714,C3871,P62008,Clothing,667,4,2023-12-18,2023-12-17,Cash on Delivery,Los Angeles,Female,64
+715,C9218,P16565,Clothing,579,4,2023-12-17,2023-12-22,Cash on Delivery,Seattle,Female,30
+716,C9592,P61954,Clothing,915,4,2023-12-22,2023-12-17,Credit Card,San Francisco,Male,49
+717,C2321,P98763,Books,382,3,2023-12-20,2023-12-26,Credit Card,Los Angeles,Male,63
+718,C9195,P50778,Clothing,935,2,2023-12-23,2023-12-23,PayPal,Chicago,Male,46
+719,C8088,P12198,Home Goods,338,2,2023-12-16,2023-12-22,Credit Card,Seattle,Female,22
+720,C4851,P11116,Electronics,879,1,2023-12-19,2023-12-24,PayPal,New York,Male,31
+721,C6721,P52125,Clothing,769,3,2023-12-22,2023-12-24,Cash on Delivery,Los Angeles,Female,55
+722,C3573,P58739,Clothing,940,4,2023-12-15,2023-12-24,Cash on Delivery,San Francisco,Female,58
+723,C6036,P93352,Home Goods,948,4,2023-12-19,2023-12-23,Credit Card,New York,Male,33
+724,C1470,P53142,Books,229,3,2023-12-23,2023-12-18,PayPal,Seattle,Female,58
+725,C9197,P72836,Books,469,4,2023-12-20,2023-12-20,PayPal,Chicago,Male,46
+726,C4465,P61791,Home Goods,801,2,2023-12-19,2023-12-19,Credit Card,Los Angeles,Male,50
+727,C6281,P19468,Electronics,344,4,2023-12-19,2023-12-26,Cash on Delivery,Chicago,Female,34
+728,C9560,P17204,Home Goods,914,4,2023-12-20,2023-12-18,Cash on Delivery,Chicago,Male,47
+729,C7227,P55966,Electronics,920,1,2023-12-23,2023-12-18,PayPal,San Francisco,Male,39
+730,C6017,P51544,Electronics,980,1,2023-12-22,2023-12-24,PayPal,Chicago,Female,53
+731,C2502,P87811,Clothing,243,3,2023-12-15,2023-12-21,Cash on Delivery,New York,Female,24
+732,C9060,P22845,Clothing,126,3,2023-12-15,2023-12-20,Cash on Delivery,Seattle,Female,43
+733,C2808,P47474,Clothing,18,2,2023-12-23,2023-12-19,Cash on Delivery,Chicago,Male,22
+734,C1589,P63176,Home Goods,426,3,2023-12-19,2023-12-19,PayPal,New York,Female,57
+735,C2691,P93856,Clothing,626,2,2023-12-24,2023-12-19,PayPal,Seattle,Female,22
+736,C9077,P37619,Books,607,1,2023-12-17,2023-12-24,PayPal,Seattle,Female,19
+737,C3447,P60528,Electronics,641,4,2023-12-18,2023-12-22,PayPal,Chicago,Female,28
+738,C6790,P15526,Clothing,700,1,2023-12-17,2023-12-22,Credit Card,Los Angeles,Female,27
+739,C2448,P75089,Home Goods,852,4,2023-12-22,2023-12-20,PayPal,Seattle,Male,45
+740,C3673,P70541,Clothing,366,1,2023-12-18,2023-12-20,Cash on Delivery,Chicago,Male,29
+741,C6222,P88854,Home Goods,907,3,2023-12-15,2023-12-18,PayPal,Chicago,Male,24
+742,C5181,P16978,Electronics,939,4,2023-12-21,2023-12-20,PayPal,Seattle,Male,53
+743,C2163,P56047,Electronics,670,2,2023-12-22,2023-12-19,Cash on Delivery,San Francisco,Male,35
+744,C4070,P19776,Electronics,158,1,2023-12-24,2023-12-17,Cash on Delivery,Chicago,Male,64
+745,C4975,P61286,Electronics,932,1,2023-12-17,2023-12-23,Credit Card,Chicago,Female,33
+746,C9299,P39751,Clothing,749,2,2023-12-15,2023-12-26,PayPal,Los Angeles,Male,31
+747,C9443,P26173,Books,534,1,2023-12-15,2023-12-26,Cash on Delivery,Chicago,Male,33
+748,C3053,P93341,Home Goods,213,1,2023-12-23,2023-12-18,PayPal,Los Angeles,Male,53
+749,C1949,P68543,Clothing,954,2,2023-12-18,2023-12-18,Credit Card,Los Angeles,Female,52
+750,C7173,P32415,Books,384,4,2023-12-18,2023-12-18,Cash on Delivery,Seattle,Female,35
+751,C4051,P56381,Books,913,1,2023-12-21,2023-12-24,PayPal,Los Angeles,Female,57
+752,C6040,P84850,Clothing,767,2,2023-12-21,2023-12-24,Credit Card,Los Angeles,Male,23
+753,C4250,P22689,Home Goods,580,3,2023-12-17,2023-12-21,PayPal,San Francisco,Male,24
+754,C5148,P13663,Home Goods,408,4,2023-12-16,2023-12-19,Cash on Delivery,Chicago,Female,27
+755,C4681,P28664,Electronics,735,3,2023-12-19,2023-12-22,PayPal,Los Angeles,Male,18
+756,C6704,P46064,Home Goods,131,2,2023-12-20,2023-12-20,PayPal,San Francisco,Female,29
+757,C4570,P80561,Electronics,785,3,2023-12-23,2023-12-25,Cash on Delivery,Chicago,Male,32
+758,C3091,P48568,Electronics,548,1,2023-12-20,2023-12-18,Cash on Delivery,San Francisco,Male,56
+759,C3757,P81244,Home Goods,547,2,2023-12-16,2023-12-23,PayPal,Los Angeles,Female,18
+760,C6385,P15836,Electronics,115,2,2023-12-17,2023-12-25,Credit Card,New York,Male,54
+761,C9968,P18212,Home Goods,762,3,2023-12-20,2023-12-20,Cash on Delivery,Seattle,Male,24
+762,C4029,P41952,Electronics,235,3,2023-12-22,2023-12-22,Cash on Delivery,Seattle,Female,48
+763,C7859,P37236,Electronics,71,3,2023-12-23,2023-12-24,PayPal,Los Angeles,Female,55
+764,C2641,P56820,Clothing,700,3,2023-12-23,2023-12-23,Cash on Delivery,Los Angeles,Male,39
+765,C9738,P11849,Books,736,1,2023-12-19,2023-12-22,Credit Card,Los Angeles,Male,26
+766,C5453,P42602,Electronics,408,3,2023-12-17,2023-12-17,Credit Card,San Francisco,Male,26
+767,C1090,P30085,Clothing,813,2,2023-12-23,2023-12-21,PayPal,Los Angeles,Male,62
+768,C3428,P80182,Clothing,647,3,2023-12-19,2023-12-21,Credit Card,Los Angeles,Female,38
+769,C7540,P30022,Books,173,4,2023-12-24,2023-12-25,PayPal,New York,Female,60
+770,C8160,P93606,Electronics,744,4,2023-12-15,2023-12-24,PayPal,Chicago,Female,55
+771,C9355,P65696,Electronics,211,1,2023-12-18,2023-12-18,Cash on Delivery,Chicago,Male,37
+772,C2916,P28335,Electronics,337,1,2023-12-19,2023-12-18,PayPal,Los Angeles,Female,49
+773,C1753,P66355,Books,673,1,2023-12-19,2023-12-20,Credit Card,Seattle,Male,46
+774,C8105,P31813,Electronics,715,4,2023-12-24,2023-12-18,Cash on Delivery,Chicago,Female,33
+775,C6809,P80277,Home Goods,477,1,2023-12-20,2023-12-18,PayPal,Seattle,Female,28
+776,C9082,P52214,Electronics,788,3,2023-12-20,2023-12-25,PayPal,Seattle,Female,32
+777,C5688,P33322,Clothing,43,4,2023-12-20,2023-12-21,PayPal,San Francisco,Male,26
+778,C2694,P66141,Electronics,343,1,2023-12-21,2023-12-20,Credit Card,Seattle,Male,59
+779,C5027,P83574,Books,190,2,2023-12-20,2023-12-21,Credit Card,Seattle,Male,23
+780,C4843,P62716,Books,211,3,2023-12-18,2023-12-25,Credit Card,Chicago,Female,46
+781,C8188,P49736,Electronics,238,1,2023-12-17,2023-12-22,Cash on Delivery,San Francisco,Female,43
+782,C3969,P52225,Home Goods,411,3,2023-12-22,2023-12-22,Cash on Delivery,San Francisco,Male,18
+783,C8775,P41426,Electronics,102,1,2023-12-23,2023-12-17,Cash on Delivery,Los Angeles,Female,32
+784,C7331,P23218,Books,173,2,2023-12-15,2023-12-19,Credit Card,Seattle,Female,61
+785,C9197,P48487,Clothing,485,4,2023-12-22,2023-12-21,Credit Card,Los Angeles,Male,18
+786,C3245,P41163,Home Goods,50,1,2023-12-24,2023-12-21,Cash on Delivery,Los Angeles,Male,52
+787,C8495,P12172,Books,569,1,2023-12-24,2023-12-26,Cash on Delivery,New York,Female,29
+788,C7626,P76321,Books,452,3,2023-12-21,2023-12-25,PayPal,New York,Male,33
+789,C5137,P66302,Home Goods,197,4,2023-12-19,2023-12-26,Cash on Delivery,New York,Female,56
+790,C4728,P43959,Clothing,986,4,2023-12-18,2023-12-18,PayPal,Seattle,Female,32
+791,C3807,P17831,Clothing,960,3,2023-12-19,2023-12-22,PayPal,New York,Male,31
+792,C5629,P32234,Books,400,4,2023-12-16,2023-12-26,PayPal,Chicago,Female,40
+793,C3363,P11562,Electronics,514,3,2023-12-15,2023-12-26,Credit Card,San Francisco,Female,55
+794,C2312,P22860,Books,635,4,2023-12-20,2023-12-24,Cash on Delivery,Chicago,Male,28
+795,C3034,P69564,Books,261,1,2023-12-17,2023-12-20,PayPal,Seattle,Male,56
+796,C3448,P71347,Books,945,1,2023-12-24,2023-12-17,Cash on Delivery,Los Angeles,Female,29
+797,C9330,P96427,Clothing,637,3,2023-12-16,2023-12-18,PayPal,Los Angeles,Female,26
+798,C2595,P17089,Electronics,842,4,2023-12-22,2023-12-25,Credit Card,San Francisco,Male,50
+799,C6990,P57961,Clothing,696,1,2023-12-15,2023-12-17,Credit Card,Seattle,Female,47
+800,C9410,P45680,Clothing,142,2,2023-12-23,2023-12-24,PayPal,Chicago,Female,37
+801,C3936,P72288,Home Goods,517,2,2023-12-20,2023-12-18,PayPal,Seattle,Female,30
+802,C7748,P35163,Clothing,863,3,2023-12-18,2023-12-23,Credit Card,Seattle,Male,18
+803,C7555,P27648,Clothing,717,2,2023-12-22,2023-12-17,Credit Card,Chicago,Male,31
+804,C8954,P28486,Electronics,534,4,2023-12-17,2023-12-25,Cash on Delivery,San Francisco,Female,41
+805,C5293,P62545,Books,770,2,2023-12-17,2023-12-25,Credit Card,San Francisco,Male,30
+806,C6523,P80617,Home Goods,555,3,2023-12-20,2023-12-23,Credit Card,San Francisco,Male,50
+807,C5938,P84431,Electronics,888,3,2023-12-18,2023-12-26,Credit Card,Chicago,Male,47
+808,C1415,P84161,Home Goods,554,1,2023-12-15,2023-12-20,Cash on Delivery,San Francisco,Male,51
+809,C6362,P99207,Home Goods,579,3,2023-12-20,2023-12-26,Cash on Delivery,San Francisco,Female,34
+810,C7761,P50409,Books,131,3,2023-12-20,2023-12-22,Cash on Delivery,San Francisco,Female,30
+811,C3155,P69076,Electronics,921,2,2023-12-20,2023-12-18,PayPal,Chicago,Male,40
+812,C5190,P48996,Clothing,828,3,2023-12-23,2023-12-20,PayPal,San Francisco,Female,29
+813,C9650,P13663,Home Goods,623,2,2023-12-19,2023-12-18,Cash on Delivery,New York,Male,34
+814,C7176,P81981,Books,398,3,2023-12-24,2023-12-20,Credit Card,New York,Female,19
+815,C2296,P92267,Home Goods,793,2,2023-12-17,2023-12-20,PayPal,New York,Female,41
+816,C1286,P92830,Books,27,4,2023-12-19,2023-12-21,PayPal,Los Angeles,Male,36
+817,C1301,P59266,Books,633,1,2023-12-15,2023-12-21,Credit Card,Los Angeles,Male,52
+818,C4480,P64850,Books,320,3,2023-12-19,2023-12-17,Credit Card,San Francisco,Female,35
+819,C7871,P93674,Clothing,286,4,2023-12-21,2023-12-23,PayPal,Los Angeles,Female,24
+820,C8653,P42388,Books,547,3,2023-12-19,2023-12-24,Cash on Delivery,San Francisco,Male,61
+821,C6020,P27729,Books,29,4,2023-12-17,2023-12-24,Credit Card,San Francisco,Male,54
+822,C7758,P94016,Clothing,241,3,2023-12-24,2023-12-17,Credit Card,San Francisco,Male,59
+823,C2590,P39890,Home Goods,581,1,2023-12-19,2023-12-17,PayPal,Seattle,Female,61
+824,C3635,P39997,Electronics,970,4,2023-12-21,2023-12-24,Credit Card,Seattle,Male,50
+825,C1625,P21366,Books,58,2,2023-12-22,2023-12-18,PayPal,Los Angeles,Male,46
+826,C2193,P80310,Clothing,225,2,2023-12-20,2023-12-21,Cash on Delivery,New York,Male,38
+827,C9918,P70566,Home Goods,843,3,2023-12-21,2023-12-18,PayPal,Chicago,Female,50
+828,C7280,P75302,Clothing,398,1,2023-12-24,2023-12-20,Cash on Delivery,New York,Male,44
+829,C6781,P85678,Electronics,691,1,2023-12-17,2023-12-18,Cash on Delivery,Los Angeles,Male,25
+830,C6079,P89830,Home Goods,912,1,2023-12-23,2023-12-26,Cash on Delivery,Chicago,Female,20
+831,C3995,P66493,Electronics,947,2,2023-12-21,2023-12-17,PayPal,Los Angeles,Female,53
+832,C4342,P52112,Electronics,699,2,2023-12-20,2023-12-24,PayPal,Seattle,Female,19
+833,C5000,P58267,Clothing,82,4,2023-12-16,2023-12-18,Credit Card,San Francisco,Male,64
+834,C8857,P12921,Home Goods,675,2,2023-12-23,2023-12-20,Credit Card,Los Angeles,Female,35
+835,C7339,P79024,Home Goods,903,1,2023-12-21,2023-12-23,Cash on Delivery,Chicago,Female,23
+836,C6947,P87604,Home Goods,899,3,2023-12-17,2023-12-17,PayPal,Chicago,Male,45
+837,C6197,P99806,Clothing,84,1,2023-12-16,2023-12-23,Credit Card,Seattle,Male,62
+838,C2466,P26439,Clothing,125,3,2023-12-17,2023-12-19,Cash on Delivery,New York,Female,61
+839,C1678,P20943,Electronics,940,3,2023-12-24,2023-12-23,PayPal,San Francisco,Female,64
+840,C8780,P91085,Home Goods,327,1,2023-12-19,2023-12-24,Credit Card,Chicago,Female,50
+841,C4442,P48432,Home Goods,649,1,2023-12-18,2023-12-19,Credit Card,Los Angeles,Male,37
+842,C9670,P41217,Home Goods,898,2,2023-12-15,2023-12-22,PayPal,San Francisco,Male,34
+843,C3909,P19443,Clothing,128,1,2023-12-18,2023-12-26,Cash on Delivery,San Francisco,Male,19
+844,C3522,P67229,Clothing,873,3,2023-12-24,2023-12-25,Cash on Delivery,Seattle,Male,32
+845,C1913,P64893,Home Goods,975,1,2023-12-21,2023-12-21,Cash on Delivery,San Francisco,Female,32
+846,C9106,P75588,Home Goods,499,4,2023-12-17,2023-12-19,Credit Card,San Francisco,Male,42
+847,C6209,P91848,Electronics,639,1,2023-12-16,2023-12-20,PayPal,Chicago,Female,58
+848,C4712,P33575,Clothing,705,4,2023-12-15,2023-12-19,Cash on Delivery,Los Angeles,Male,44
+849,C5268,P17646,Home Goods,626,4,2023-12-24,2023-12-24,Cash on Delivery,Chicago,Female,57
+850,C7963,P45857,Books,677,2,2023-12-15,2023-12-23,Credit Card,Los Angeles,Female,63
+851,C9770,P74350,Home Goods,926,1,2023-12-20,2023-12-20,PayPal,New York,Male,31
+852,C2799,P30915,Books,588,2,2023-12-21,2023-12-26,PayPal,San Francisco,Male,35
+853,C4880,P46918,Books,157,4,2023-12-22,2023-12-22,Cash on Delivery,Los Angeles,Male,18
+854,C5665,P33114,Books,526,3,2023-12-21,2023-12-21,Cash on Delivery,Chicago,Female,30
+855,C9705,P79442,Books,358,2,2023-12-21,2023-12-23,Credit Card,Los Angeles,Male,21
+856,C7833,P41797,Clothing,673,1,2023-12-22,2023-12-19,Cash on Delivery,San Francisco,Female,51
+857,C1912,P81186,Books,352,1,2023-12-24,2023-12-26,Credit Card,Los Angeles,Male,47
+858,C3039,P52179,Electronics,333,4,2023-12-16,2023-12-22,Credit Card,San Francisco,Male,41
+859,C6498,P42266,Books,425,3,2023-12-22,2023-12-24,Cash on Delivery,Seattle,Male,26
+860,C3478,P57620,Home Goods,956,4,2023-12-19,2023-12-17,PayPal,San Francisco,Female,31
+861,C7638,P38946,Home Goods,281,4,2023-12-19,2023-12-19,Cash on Delivery,San Francisco,Female,36
+862,C8090,P54745,Books,647,1,2023-12-23,2023-12-26,PayPal,Los Angeles,Male,46
+863,C1902,P50338,Electronics,119,3,2023-12-15,2023-12-20,Credit Card,Los Angeles,Female,64
+864,C9199,P68129,Electronics,158,2,2023-12-22,2023-12-22,Cash on Delivery,New York,Male,41
+865,C3906,P28713,Electronics,852,1,2023-12-24,2023-12-17,PayPal,San Francisco,Female,55
+866,C9059,P29837,Home Goods,962,4,2023-12-20,2023-12-22,Credit Card,Chicago,Male,33
+867,C1282,P73164,Electronics,709,2,2023-12-21,2023-12-21,PayPal,San Francisco,Female,23
+868,C7753,P17112,Electronics,945,1,2023-12-23,2023-12-17,Cash on Delivery,Chicago,Male,23
+869,C2660,P18071,Electronics,884,1,2023-12-15,2023-12-20,Cash on Delivery,Seattle,Male,32
+870,C5068,P46653,Home Goods,543,1,2023-12-22,2023-12-26,PayPal,Chicago,Male,39
+871,C2935,P66555,Electronics,964,4,2023-12-23,2023-12-26,Cash on Delivery,Los Angeles,Female,19
+872,C3574,P30443,Home Goods,83,2,2023-12-24,2023-12-26,Credit Card,San Francisco,Male,42
+873,C7941,P31009,Electronics,188,4,2023-12-19,2023-12-21,Credit Card,Los Angeles,Female,55
+874,C6896,P17276,Clothing,368,1,2023-12-22,2023-12-23,Credit Card,Chicago,Female,38
+875,C3434,P88330,Electronics,756,2,2023-12-23,2023-12-23,Credit Card,Seattle,Female,26
+876,C1259,P73483,Electronics,94,3,2023-12-21,2023-12-20,Cash on Delivery,New York,Male,29
+877,C3705,P29446,Home Goods,872,1,2023-12-20,2023-12-19,Cash on Delivery,Chicago,Male,63
+878,C6805,P19777,Books,485,1,2023-12-22,2023-12-24,Credit Card,Seattle,Female,51
+879,C6534,P90815,Books,149,3,2023-12-22,2023-12-25,PayPal,New York,Male,20
+880,C8192,P68019,Electronics,657,1,2023-12-19,2023-12-21,Cash on Delivery,Seattle,Female,44
+881,C7982,P92560,Clothing,739,1,2023-12-16,2023-12-21,Credit Card,San Francisco,Female,54
+882,C5771,P62489,Clothing,378,4,2023-12-16,2023-12-25,PayPal,Chicago,Female,57
+883,C4749,P63375,Electronics,215,3,2023-12-20,2023-12-22,Cash on Delivery,New York,Male,26
+884,C5275,P18067,Home Goods,810,1,2023-12-17,2023-12-24,Credit Card,San Francisco,Female,24
+885,C9243,P34592,Home Goods,382,2,2023-12-18,2023-12-26,PayPal,Seattle,Female,53
+886,C4324,P26122,Books,613,3,2023-12-17,2023-12-21,Cash on Delivery,Los Angeles,Male,44
+887,C6961,P76292,Books,303,4,2023-12-17,2023-12-18,Cash on Delivery,Chicago,Female,57
+888,C6249,P74317,Books,317,2,2023-12-24,2023-12-20,Credit Card,New York,Male,40
+889,C7173,P73114,Home Goods,123,1,2023-12-17,2023-12-17,PayPal,Seattle,Female,48
+890,C6317,P59795,Books,291,3,2023-12-20,2023-12-17,PayPal,Los Angeles,Male,31
+891,C1103,P59223,Books,55,1,2023-12-16,2023-12-21,Credit Card,Los Angeles,Male,35
+892,C6850,P10575,Electronics,233,4,2023-12-16,2023-12-23,Credit Card,Chicago,Female,40
+893,C8998,P60212,Electronics,501,3,2023-12-18,2023-12-26,Credit Card,Los Angeles,Female,41
+894,C9394,P91105,Books,238,4,2023-12-24,2023-12-17,Cash on Delivery,Seattle,Female,37
+895,C1711,P96120,Home Goods,738,3,2023-12-18,2023-12-17,Cash on Delivery,Chicago,Female,61
+896,C7741,P76895,Home Goods,759,4,2023-12-21,2023-12-18,Credit Card,Los Angeles,Male,30
+897,C5560,P87814,Books,835,3,2023-12-15,2023-12-24,PayPal,Los Angeles,Female,44
+898,C7751,P90609,Electronics,349,4,2023-12-20,2023-12-23,Credit Card,New York,Female,37
+899,C7492,P50464,Clothing,67,1,2023-12-18,2023-12-23,Cash on Delivery,Chicago,Female,54
+900,C5255,P54234,Books,790,2,2023-12-23,2023-12-26,Credit Card,San Francisco,Female,25
+901,C2788,P91706,Clothing,911,2,2023-12-19,2023-12-17,Cash on Delivery,San Francisco,Male,64
+902,C4026,P17957,Home Goods,24,2,2023-12-22,2023-12-17,PayPal,New York,Male,23
+903,C7768,P19373,Electronics,556,2,2023-12-16,2023-12-24,Cash on Delivery,San Francisco,Female,35
+904,C7918,P20769,Home Goods,657,3,2023-12-24,2023-12-21,Credit Card,New York,Female,45
+905,C5802,P23254,Home Goods,328,1,2023-12-23,2023-12-21,Credit Card,Los Angeles,Male,32
+906,C8790,P37592,Clothing,400,2,2023-12-17,2023-12-20,Cash on Delivery,Chicago,Female,52
+907,C5311,P23406,Clothing,454,3,2023-12-15,2023-12-19,Cash on Delivery,Seattle,Female,19
+908,C9264,P11214,Clothing,220,1,2023-12-15,2023-12-25,Credit Card,Seattle,Female,35
+909,C2777,P39361,Books,431,1,2023-12-21,2023-12-21,Credit Card,San Francisco,Male,50
+910,C1816,P99715,Electronics,979,2,2023-12-17,2023-12-21,Cash on Delivery,Chicago,Female,27
+911,C8756,P68196,Electronics,257,1,2023-12-24,2023-12-17,Cash on Delivery,Los Angeles,Male,47
+912,C8152,P29699,Electronics,411,3,2023-12-22,2023-12-17,Cash on Delivery,New York,Male,28
+913,C5769,P66071,Electronics,203,4,2023-12-22,2023-12-19,Cash on Delivery,Los Angeles,Male,29
+914,C3158,P76737,Books,505,3,2023-12-22,2023-12-19,Credit Card,San Francisco,Female,63
+915,C7054,P64912,Clothing,943,2,2023-12-20,2023-12-21,Credit Card,Chicago,Female,39
+916,C4539,P36344,Home Goods,394,2,2023-12-21,2023-12-22,Credit Card,Chicago,Female,57
+917,C3004,P89982,Electronics,28,2,2023-12-17,2023-12-19,PayPal,San Francisco,Male,48
+918,C6461,P45216,Books,305,4,2023-12-22,2023-12-18,Cash on Delivery,New York,Male,29
+919,C4064,P70675,Books,314,1,2023-12-18,2023-12-19,Credit Card,New York,Male,26
+920,C2226,P57928,Books,576,1,2023-12-17,2023-12-20,Credit Card,New York,Female,21
+921,C8298,P55834,Books,576,1,2023-12-15,2023-12-26,Credit Card,Seattle,Female,55
+922,C8740,P46928,Books,908,1,2023-12-15,2023-12-23,PayPal,Chicago,Female,41
+923,C5983,P39578,Electronics,787,3,2023-12-22,2023-12-20,PayPal,New York,Female,18
+924,C3493,P94787,Home Goods,287,1,2023-12-19,2023-12-24,Credit Card,Los Angeles,Female,64
+925,C2975,P56148,Electronics,556,3,2023-12-23,2023-12-18,Credit Card,Chicago,Female,19
+926,C1031,P29134,Books,10,1,2023-12-23,2023-12-25,Cash on Delivery,Los Angeles,Female,54
+927,C8978,P48986,Books,936,1,2023-12-15,2023-12-19,PayPal,Chicago,Female,55
+928,C9445,P23843,Home Goods,222,1,2023-12-19,2023-12-22,Cash on Delivery,New York,Female,33
+929,C2764,P22925,Clothing,173,3,2023-12-20,2023-12-26,PayPal,Chicago,Female,38
+930,C9493,P32442,Books,98,2,2023-12-19,2023-12-23,Cash on Delivery,Seattle,Female,55
+931,C2574,P63547,Electronics,71,1,2023-12-18,2023-12-24,PayPal,Seattle,Female,20
+932,C5188,P18568,Books,713,4,2023-12-24,2023-12-20,Credit Card,New York,Female,51
+933,C4384,P46160,Home Goods,617,1,2023-12-17,2023-12-25,Credit Card,Los Angeles,Female,62
+934,C1066,P15811,Clothing,140,2,2023-12-23,2023-12-19,Cash on Delivery,Chicago,Female,54
+935,C2027,P57841,Home Goods,675,2,2023-12-22,2023-12-25,PayPal,Chicago,Female,49
+936,C8830,P53684,Clothing,813,4,2023-12-19,2023-12-23,PayPal,Seattle,Male,59
+937,C5158,P94813,Books,571,3,2023-12-24,2023-12-19,Credit Card,New York,Female,31
+938,C2439,P64808,Electronics,475,1,2023-12-24,2023-12-23,Credit Card,Los Angeles,Male,50
+939,C7758,P24569,Books,158,1,2023-12-18,2023-12-19,PayPal,San Francisco,Female,46
+940,C7730,P99323,Electronics,230,4,2023-12-19,2023-12-22,PayPal,San Francisco,Female,54
+941,C9727,P20309,Books,363,4,2023-12-22,2023-12-22,Credit Card,San Francisco,Male,22
+942,C8642,P58776,Clothing,513,4,2023-12-18,2023-12-20,Credit Card,Seattle,Male,18
+943,C2916,P79201,Books,367,3,2023-12-22,2023-12-18,Cash on Delivery,New York,Male,21
+944,C9055,P95170,Books,261,1,2023-12-17,2023-12-26,PayPal,New York,Male,30
+945,C5125,P87574,Clothing,107,1,2023-12-22,2023-12-24,Credit Card,Chicago,Male,50
+946,C4675,P39060,Home Goods,62,4,2023-12-23,2023-12-24,Credit Card,New York,Male,31
+947,C6085,P71531,Clothing,389,3,2023-12-22,2023-12-18,Cash on Delivery,San Francisco,Male,58
+948,C4258,P64256,Home Goods,513,2,2023-12-21,2023-12-24,Cash on Delivery,Seattle,Male,28
+949,C8536,P56814,Clothing,178,4,2023-12-21,2023-12-22,PayPal,Los Angeles,Female,31
+950,C5499,P71754,Electronics,834,1,2023-12-16,2023-12-26,Credit Card,Seattle,Female,29
+951,C8327,P50349,Clothing,723,2,2023-12-18,2023-12-17,PayPal,Chicago,Male,27
+952,C6489,P78268,Electronics,771,2,2023-12-15,2023-12-18,Cash on Delivery,New York,Male,45
+953,C2973,P70742,Clothing,395,1,2023-12-18,2023-12-26,Credit Card,San Francisco,Female,45
+954,C5891,P36596,Books,758,2,2023-12-23,2023-12-17,PayPal,New York,Female,57
+955,C4306,P24222,Home Goods,692,4,2023-12-17,2023-12-25,PayPal,San Francisco,Male,48
+956,C3004,P99933,Home Goods,91,3,2023-12-23,2023-12-19,PayPal,Los Angeles,Male,22
+957,C4067,P25095,Electronics,330,1,2023-12-19,2023-12-21,Cash on Delivery,New York,Male,56
+958,C1724,P71425,Clothing,976,3,2023-12-15,2023-12-19,PayPal,New York,Male,19
+959,C7329,P34960,Electronics,337,1,2023-12-22,2023-12-24,PayPal,San Francisco,Male,35
+960,C9587,P85401,Electronics,387,2,2023-12-22,2023-12-20,PayPal,Los Angeles,Female,47
+961,C1021,P49565,Home Goods,164,3,2023-12-17,2023-12-20,Credit Card,San Francisco,Female,46
+962,C7374,P36927,Books,364,4,2023-12-24,2023-12-24,Cash on Delivery,San Francisco,Female,43
+963,C9276,P48760,Electronics,882,1,2023-12-24,2023-12-23,PayPal,San Francisco,Female,32
+964,C9536,P69594,Books,900,4,2023-12-19,2023-12-25,Credit Card,New York,Female,61
+965,C2648,P82770,Home Goods,657,3,2023-12-15,2023-12-18,PayPal,New York,Male,63
+966,C9554,P69006,Books,509,4,2023-12-22,2023-12-20,Credit Card,Los Angeles,Female,42
+967,C4481,P19616,Home Goods,327,1,2023-12-24,2023-12-18,Credit Card,Seattle,Male,57
+968,C9817,P51763,Electronics,529,4,2023-12-16,2023-12-20,PayPal,San Francisco,Male,29
+969,C8205,P66589,Home Goods,528,2,2023-12-16,2023-12-23,Cash on Delivery,Los Angeles,Male,22
+970,C3901,P79801,Home Goods,519,3,2023-12-16,2023-12-25,Credit Card,Los Angeles,Male,56
+971,C4839,P31361,Home Goods,218,4,2023-12-21,2023-12-22,PayPal,New York,Female,28
+972,C4225,P64110,Electronics,324,2,2023-12-22,2023-12-21,Credit Card,San Francisco,Female,60
+973,C9968,P46030,Home Goods,623,2,2023-12-16,2023-12-17,PayPal,San Francisco,Male,61
+974,C8778,P36400,Electronics,498,3,2023-12-15,2023-12-22,PayPal,Seattle,Female,38
+975,C4326,P84786,Books,633,1,2023-12-23,2023-12-19,PayPal,San Francisco,Female,49
+976,C3528,P11938,Electronics,401,2,2023-12-15,2023-12-20,Credit Card,Seattle,Male,21
+977,C9775,P37220,Electronics,77,2,2023-12-20,2023-12-18,Credit Card,Chicago,Male,49
+978,C5748,P68112,Electronics,901,2,2023-12-21,2023-12-24,Cash on Delivery,Seattle,Male,61
+979,C7920,P87766,Electronics,213,4,2023-12-22,2023-12-26,PayPal,San Francisco,Male,52
+980,C9365,P76482,Home Goods,624,1,2023-12-24,2023-12-18,PayPal,San Francisco,Male,19
+981,C6171,P22548,Clothing,508,1,2023-12-24,2023-12-17,Cash on Delivery,Seattle,Female,62
+982,C3514,P40718,Home Goods,317,2,2023-12-20,2023-12-21,Credit Card,Chicago,Female,36
+983,C5427,P12305,Books,845,1,2023-12-23,2023-12-19,Credit Card,New York,Male,21
+984,C7097,P39760,Books,685,2,2023-12-17,2023-12-22,Cash on Delivery,New York,Male,25
+985,C1723,P71627,Electronics,534,1,2023-12-19,2023-12-18,Credit Card,Chicago,Male,53
+986,C8455,P86646,Clothing,798,4,2023-12-19,2023-12-24,PayPal,San Francisco,Male,52
+987,C2845,P60561,Home Goods,974,2,2023-12-22,2023-12-18,Cash on Delivery,Chicago,Male,22
+988,C5575,P76534,Home Goods,764,3,2023-12-23,2023-12-19,Cash on Delivery,Chicago,Male,64
+989,C7514,P72688,Books,441,3,2023-12-18,2023-12-23,Cash on Delivery,Chicago,Female,60
+990,C8639,P67029,Clothing,392,4,2023-12-19,2023-12-25,Cash on Delivery,New York,Female,18
+991,C2336,P70873,Clothing,427,4,2023-12-18,2023-12-22,Cash on Delivery,New York,Male,54
+992,C1070,P84905,Electronics,744,3,2023-12-19,2023-12-22,PayPal,San Francisco,Female,45
+993,C6370,P15693,Electronics,380,3,2023-12-16,2023-12-20,PayPal,New York,Female,40
+994,C2300,P93183,Books,20,4,2023-12-24,2023-12-21,Cash on Delivery,Seattle,Male,54
+995,C5989,P85421,Books,162,3,2023-12-24,2023-12-26,Cash on Delivery,San Francisco,Female,24
+996,C8064,P17594,Electronics,926,1,2023-12-20,2023-12-19,PayPal,Los Angeles,Female,38
+997,C4911,P31233,Books,133,4,2023-12-24,2023-12-25,Credit Card,New York,Male,45
+998,C6076,P58093,Clothing,238,2,2023-12-20,2023-12-23,Cash on Delivery,San Francisco,Female,48
+999,C5867,P58159,Electronics,144,4,2023-12-23,2023-12-17,PayPal,Chicago,Female,36
